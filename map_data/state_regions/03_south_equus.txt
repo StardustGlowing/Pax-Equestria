@@ -1,0 +1,199 @@
+﻿STATE_200 = {
+    id = 200
+    provinces = { "x" }
+}
+
+STATE_201 = {
+    id = 201
+    provinces = { "x" }
+}
+
+STATE_202 = {
+    id = 202
+    provinces = { "x" }
+}
+
+STATE_203 = {
+    id = 203
+    provinces = { "x" }
+}
+
+STATE_204 = {
+    id = 204
+    provinces = { "x" }
+}
+
+STATE_205 = {
+    id = 205
+    provinces = { "x" }
+}
+
+STATE_206 = {
+    id = 206
+    provinces = { "x" }
+}
+
+STATE_207 = {
+    id = 207
+    provinces = { "x" }
+}
+
+STATE_208 = {
+    id = 208
+    provinces = { "x" }
+}
+
+STATE_209 = {
+    id = 209
+    provinces = { "x" }
+}
+
+STATE_210 = {
+    id = 210
+    provinces = { "x" }
+}
+
+STATE_211 = {
+    id = 211
+    provinces = { "x" }
+}
+
+STATE_212 = {
+    id = 212
+    provinces = { "x" }
+}
+
+STATE_213 = {
+    id = 213
+    provinces = { "x" }
+}
+
+STATE_214 = {
+    id = 214
+    provinces = { "x" }
+}
+
+STATE_215 = {
+    id = 215
+    provinces = { "x" }
+}
+
+STATE_216 = {
+    id = 216
+    provinces = { "x" }
+}
+
+STATE_217 = {
+    id = 217
+    provinces = { "x" }
+}
+
+STATE_218 = {
+    id = 218
+    provinces = { "x" }
+}
+
+STATE_219 = {
+    id = 219
+    provinces = { "x" }
+}
+
+STATE_220 = {
+    id = 220
+    provinces = { "x" }
+}
+
+STATE_221 = {
+    id = 221
+    provinces = { "x" }
+}
+
+STATE_222 = {
+    id = 222
+    provinces = { "x" }
+}
+
+STATE_223 = {
+    id = 223
+    provinces = { "x" }
+}
+
+STATE_224 = {
+    id = 224
+    provinces = { "x" }
+}
+
+STATE_225 = {
+    id = 225
+    provinces = { "x" }
+}
+
+STATE_226 = {
+    id = 226
+    provinces = { "x" }
+}
+
+STATE_227 = {
+    id = 227
+    provinces = { "x" }
+}
+
+STATE_228 = {
+    id = 228
+    provinces = { "x" }
+}
+
+STATE_229 = {
+    id = 229
+    provinces = { "x" }
+}
+
+STATE_230 = {
+    id = 230
+    provinces = { "x" }
+}
+
+STATE_231 = {
+    id = 231
+    provinces = { "x" }
+}
+
+STATE_232 = {
+    id = 232
+    provinces = { "x" }
+}
+
+STATE_233 = {
+    id = 233
+    provinces = { "x" }
+}
+
+STATE_234 = {
+    id = 234
+    provinces = { "x" }
+}
+
+STATE_235 = {
+    id = 235
+    provinces = { "x" }
+}
+
+STATE_236 = {
+    id = 236
+    provinces = { "x" }
+}
+
+STATE_237 = {
+    id = 237
+    provinces = { "x" }
+}
+
+STATE_238 = {
+    id = 238
+    provinces = { "x" }
+}
+
+STATE_239 = {
+    id = 239
+    provinces = { "x" }
+}

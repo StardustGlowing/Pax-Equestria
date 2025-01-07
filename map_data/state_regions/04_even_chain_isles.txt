@@ -1,0 +1,39 @@
+﻿STATE_240 = {
+    id = 240
+    provinces = { "x" }
+}
+
+STATE_241 = {
+    id = 241
+    provinces = { "x" }
+}
+
+STATE_242 = {
+    id = 242
+    provinces = { "x" }
+}
+
+STATE_243 = {
+    id = 243
+    provinces = { "x" }
+}
+
+STATE_244 = {
+    id = 244
+    provinces = { "x" }
+}
+
+STATE_245 = {
+    id = 245
+    provinces = { "x" }
+}
+
+STATE_246 = {
+    id = 246
+    provinces = { "x" }
+}
+
+STATE_247 = {
+    id = 247
+    provinces = { "x" }
+}

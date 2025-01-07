@@ -1,0 +1,314 @@
+﻿STATE_293 = {
+    id = 293
+    provinces = { "x" }
+}
+
+STATE_294 = {
+    id = 294
+    provinces = { "x" }
+}
+
+STATE_295 = {
+    id = 295
+    provinces = { "x" }
+}
+
+STATE_296 = {
+    id = 296
+    provinces = { "x" }
+}
+
+STATE_297 = {
+    id = 297
+    provinces = { "x" }
+}
+
+STATE_298 = {
+    id = 298
+    provinces = { "x" }
+}
+
+STATE_299 = {
+    id = 299
+    provinces = { "x" }
+}
+
+STATE_300 = {
+    id = 300
+    provinces = { "x" }
+}
+
+STATE_301 = {
+    id = 301
+    provinces = { "x" }
+}
+
+STATE_302 = {
+    id = 302
+    provinces = { "x" }
+}
+
+STATE_303 = {
+    id = 303
+    provinces = { "x" }
+}
+
+STATE_304 = {
+    id = 304
+    provinces = { "x" }
+}
+
+STATE_305 = {
+    id = 305
+    provinces = { "x" }
+}
+
+STATE_306 = {
+    id = 306
+    provinces = { "x" }
+}
+
+STATE_307 = {
+    id = 307
+    provinces = { "x" }
+}
+
+STATE_308 = {
+    id = 308
+    provinces = { "x" }
+}
+
+STATE_309 = {
+    id = 309
+    provinces = { "x" }
+}
+
+STATE_310 = {
+    id = 310
+    provinces = { "x" }
+}
+
+STATE_311 = {
+    id = 311
+    provinces = { "x" }
+}
+
+STATE_312 = {
+    id = 312
+    provinces = { "x" }
+}
+
+STATE_313 = {
+    id = 313
+    provinces = { "x" }
+}
+
+STATE_314 = {
+    id = 314
+    provinces = { "x" }
+}
+
+STATE_315 = {
+    id = 315
+    provinces = { "x" }
+}
+
+STATE_316 = {
+    id = 316
+    provinces = { "x" }
+}
+
+STATE_317 = {
+    id = 317
+    provinces = { "x" }
+}
+
+STATE_318 = {
+    id = 318
+    provinces = { "x" }
+}
+
+STATE_319 = {
+    id = 319
+    provinces = { "x" }
+}
+
+STATE_320 = {
+    id = 320
+    provinces = { "x" }
+}
+
+STATE_321 = {
+    id = 321
+    provinces = { "x" }
+}
+
+STATE_322 = {
+    id = 322
+    provinces = { "x" }
+}
+
+STATE_323 = {
+    id = 323
+    provinces = { "x" }
+}
+
+STATE_324 = {
+    id = 324
+    provinces = { "x" }
+}
+
+STATE_325 = {
+    id = 325
+    provinces = { "x" }
+}
+
+STATE_326 = {
+    id = 326
+    provinces = { "x" }
+}
+
+STATE_327 = {
+    id = 327
+    provinces = { "x" }
+}
+
+STATE_328 = {
+    id = 328
+    provinces = { "x" }
+}
+
+STATE_329 = {
+    id = 329
+    provinces = { "x" }
+}
+
+STATE_330 = {
+    id = 330
+    provinces = { "x" }
+}
+
+STATE_331 = {
+    id = 331
+    provinces = { "x" }
+}
+
+STATE_332 = {
+    id = 332
+    provinces = { "x" }
+}
+
+STATE_333 = {
+    id = 333
+    provinces = { "x" }
+}
+
+STATE_334 = {
+    id = 334
+    provinces = { "x" }
+}
+
+STATE_335 = {
+    id = 335
+    provinces = { "x" }
+}
+
+STATE_336 = {
+    id = 336
+    provinces = { "x" }
+}
+
+STATE_337 = {
+    id = 337
+    provinces = { "x" }
+}
+
+STATE_338 = {
+    id = 338
+    provinces = { "x" }
+}
+
+STATE_339 = {
+    id = 339
+    provinces = { "x" }
+}
+
+STATE_340 = {
+    id = 340
+    provinces = { "x" }
+}
+
+STATE_341 = {
+    id = 341
+    provinces = { "x" }
+}
+
+STATE_342 = {
+    id = 342
+    provinces = { "x" }
+}
+
+STATE_343 = {
+    id = 343
+    provinces = { "x" }
+}
+
+STATE_344 = {
+    id = 344
+    provinces = { "x" }
+}
+
+STATE_345 = {
+    id = 345
+    provinces = { "x" }
+}
+
+STATE_346 = {
+    id = 346
+    provinces = { "x" }
+}
+
+STATE_347 = {
+    id = 347
+    provinces = { "x" }
+}
+
+STATE_348 = {
+    id = 348
+    provinces = { "x" }
+}
+
+STATE_349 = {
+    id = 349
+    provinces = { "x" }
+}
+
+STATE_350 = {
+    id = 350
+    provinces = { "x" }
+}
+
+STATE_351 = {
+    id = 351
+    provinces = { "x" }
+}
+
+STATE_352 = {
+    id = 352
+    provinces = { "x" }
+}
+
+STATE_353 = {
+    id = 353
+    provinces = { "x" }
+}
+
+STATE_354 = {
+    id = 354
+    provinces = { "x" }
+}
+
+STATE_355 = {
+    id = 355
+    provinces = { "x" }
+}

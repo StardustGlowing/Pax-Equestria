@@ -1,0 +1,264 @@
+﻿STATE_001 = {
+    id = 1
+    provinces = { "x" }
+}
+
+STATE_002 = {
+    id = 2
+    provinces = { "x" }
+}
+
+STATE_003 = {
+    id = 3
+    provinces = { "x" }
+}
+
+STATE_004 = {
+    id = 4
+    provinces = { "x" }
+}
+
+STATE_005 = {
+    id = 5
+    provinces = { "x" }
+}
+
+STATE_006 = {
+    id = 6
+    provinces = { "x" }
+}
+
+STATE_007 = {
+    id = 7
+    provinces = { "x" }
+}
+
+STATE_008 = {
+    id = 8
+    provinces = { "x" }
+}
+
+STATE_009 = {
+    id = 9
+    provinces = { "x" }
+}
+
+STATE_010 = {
+    id = 10
+    provinces = { "x" }
+}
+
+STATE_011 = {
+    id = 11
+    provinces = { "x" }
+}
+
+STATE_012 = {
+    id = 12
+    provinces = { "x" }
+}
+
+STATE_013 = {
+    id = 13
+    provinces = { "x" }
+}
+
+STATE_014 = {
+    id = 14
+    provinces = { "x" }
+}
+
+STATE_015 = {
+    id = 15
+    provinces = { "x" }
+}
+
+STATE_016 = {
+    id = 16
+    provinces = { "x" }
+}
+
+STATE_017 = {
+    id = 17
+    provinces = { "x" }
+}
+
+STATE_018 = {
+    id = 18
+    provinces = { "x" }
+}
+
+STATE_019 = {
+    id = 19
+    provinces = { "x" }
+}
+
+STATE_020 = {
+    id = 20
+    provinces = { "x" }
+}
+
+STATE_021 = {
+    id = 21
+    provinces = { "x" }
+}
+
+STATE_022 = {
+    id = 22
+    provinces = { "x" }
+}
+
+STATE_023 = {
+    id = 23
+    provinces = { "x" }
+}
+
+STATE_024 = {
+    id = 24
+    provinces = { "x" }
+}
+
+STATE_025 = {
+    id = 25
+    provinces = { "x" }
+}
+
+STATE_026 = {
+    id = 26
+    provinces = { "x" }
+}
+
+STATE_027 = {
+    id = 27
+    provinces = { "x" }
+}
+
+STATE_028 = {
+    id = 28
+    provinces = { "x" }
+}
+
+STATE_029 = {
+    id = 29
+    provinces = { "x" }
+}
+
+STATE_030 = {
+    id = 30
+    provinces = { "x" }
+}
+
+STATE_031 = {
+    id = 31
+    provinces = { "x" }
+}
+
+STATE_032 = {
+    id = 32
+    provinces = { "x" }
+}
+
+STATE_033 = {
+    id = 33
+    provinces = { "x" }
+}
+
+STATE_034 = {
+    id = 34
+    provinces = { "x" }
+}
+
+STATE_035 = {
+    id = 35
+    provinces = { "x" }
+}
+
+STATE_036 = {
+    id = 36
+    provinces = { "x" }
+}
+
+STATE_037 = {
+    id = 37
+    provinces = { "x" }
+}
+
+STATE_038 = {
+    id = 38
+    provinces = { "x" }
+}
+
+STATE_039 = {
+    id = 39
+    provinces = { "x" }
+}
+
+STATE_040 = {
+    id = 40
+    provinces = { "x" }
+}
+
+STATE_041 = {
+    id = 41
+    provinces = { "x" }
+}
+
+STATE_042 = {
+    id = 42
+    provinces = { "x" }
+}
+
+STATE_043 = {
+    id = 43
+    provinces = { "x" }
+}
+
+STATE_044 = {
+    id = 44
+    provinces = { "x" }
+}
+
+STATE_045 = {
+    id = 45
+    provinces = { "x" }
+}
+
+STATE_046 = {
+    id = 46
+    provinces = { "x" }
+}
+
+STATE_047 = {
+    id = 47
+    provinces = { "x" }
+}
+
+STATE_048 = {
+    id = 48
+    provinces = { "x" }
+}
+
+STATE_049 = {
+    id = 49
+    provinces = { "x" }
+}
+
+STATE_050 = {
+    id = 50
+    provinces = { "x" }
+}
+
+STATE_051 = {
+    id = 51
+    provinces = { "x" }
+}
+
+STATE_052 = {
+    id = 52
+    provinces = { "x" }
+}
+
+STATE_053 = {
+    id = 53
+    provinces = { "x" }
+}

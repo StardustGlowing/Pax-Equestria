@@ -1,0 +1,634 @@
+﻿STATE_SEA_1234 = {
+    id = 1234
+    provinces = { "x" }
+}
+
+STATE_SEA_1235 = {
+    id = 1235
+    provinces = { "x" }
+}
+
+STATE_SEA_1236 = {
+    id = 1236
+    provinces = { "x" }
+}
+
+STATE_SEA_1237 = {
+    id = 1237
+    provinces = { "x" }
+}
+
+STATE_SEA_1238 = {
+    id = 1238
+    provinces = { "x" }
+}
+
+STATE_SEA_1239 = {
+    id = 1239
+    provinces = { "x" }
+}
+
+STATE_SEA_1240 = {
+    id = 1240
+    provinces = { "x" }
+}
+
+STATE_SEA_1241 = {
+    id = 1241
+    provinces = { "x" }
+}
+
+STATE_SEA_1242 = {
+    id = 1242
+    provinces = { "x" }
+}
+
+STATE_SEA_1243 = {
+    id = 1243
+    provinces = { "x" }
+}
+
+STATE_SEA_1244 = {
+    id = 1244
+    provinces = { "x" }
+}
+
+STATE_SEA_1245 = {
+    id = 1245
+    provinces = { "x" }
+}
+
+STATE_SEA_1246 = {
+    id = 1246
+    provinces = { "x" }
+}
+
+STATE_SEA_1247 = {
+    id = 1247
+    provinces = { "x" }
+}
+
+STATE_SEA_1248 = {
+    id = 1248
+    provinces = { "x" }
+}
+
+STATE_SEA_1249 = {
+    id = 1249
+    provinces = { "x" }
+}
+
+STATE_SEA_1250 = {
+    id = 1250
+    provinces = { "x" }
+}
+
+STATE_SEA_1251 = {
+    id = 1251
+    provinces = { "x" }
+}
+
+STATE_SEA_1252 = {
+    id = 1252
+    provinces = { "x" }
+}
+
+STATE_SEA_1253 = {
+    id = 1253
+    provinces = { "x" }
+}
+
+STATE_SEA_1254 = {
+    id = 1254
+    provinces = { "x" }
+}
+
+STATE_SEA_1255 = {
+    id = 1255
+    provinces = { "x" }
+}
+
+STATE_SEA_1256 = {
+    id = 1256
+    provinces = { "x" }
+}
+
+STATE_SEA_1257 = {
+    id = 1257
+    provinces = { "x" }
+}
+
+STATE_SEA_1258 = {
+    id = 1258
+    provinces = { "x" }
+}
+
+STATE_SEA_1259 = {
+    id = 1259
+    provinces = { "x" }
+}
+
+STATE_SEA_1260 = {
+    id = 1260
+    provinces = { "x" }
+}
+
+STATE_SEA_1261 = {
+    id = 1261
+    provinces = { "x" }
+}
+
+STATE_SEA_1262 = {
+    id = 1262
+    provinces = { "x" }
+}
+
+STATE_SEA_1263 = {
+    id = 1263
+    provinces = { "x" }
+}
+
+STATE_SEA_1264 = {
+    id = 1264
+    provinces = { "x" }
+}
+
+STATE_SEA_1265 = {
+    id = 1265
+    provinces = { "x" }
+}
+
+STATE_SEA_1266 = {
+    id = 1266
+    provinces = { "x" }
+}
+
+STATE_SEA_1267 = {
+    id = 1267
+    provinces = { "x" }
+}
+
+STATE_SEA_1268 = {
+    id = 1268
+    provinces = { "x" }
+}
+
+STATE_SEA_1269 = {
+    id = 1269
+    provinces = { "x" }
+}
+
+STATE_SEA_1270 = {
+    id = 1270
+    provinces = { "x" }
+}
+
+STATE_SEA_1271 = {
+    id = 1271
+    provinces = { "x" }
+}
+
+STATE_SEA_1272 = {
+    id = 1272
+    provinces = { "x" }
+}
+
+STATE_SEA_1273 = {
+    id = 1273
+    provinces = { "x" }
+}
+
+STATE_SEA_1274 = {
+    id = 1274
+    provinces = { "x" }
+}
+
+STATE_SEA_1275 = {
+    id = 1275
+    provinces = { "x" }
+}
+
+STATE_SEA_1276 = {
+    id = 1276
+    provinces = { "x" }
+}
+
+STATE_SEA_1277 = {
+    id = 1277
+    provinces = { "x" }
+}
+
+STATE_SEA_1278 = {
+    id = 1278
+    provinces = { "x" }
+}
+
+STATE_SEA_1279 = {
+    id = 1279
+    provinces = { "x" }
+}
+
+STATE_SEA_1280 = {
+    id = 1280
+    provinces = { "x" }
+}
+
+STATE_SEA_1281 = {
+    id = 1281
+    provinces = { "x" }
+}
+
+STATE_SEA_1282 = {
+    id = 1282
+    provinces = { "x" }
+}
+
+STATE_SEA_1283 = {
+    id = 1283
+    provinces = { "x" }
+}
+
+STATE_SEA_1284 = {
+    id = 1284
+    provinces = { "x" }
+}
+
+STATE_SEA_1285 = {
+    id = 1285
+    provinces = { "x" }
+}
+
+STATE_SEA_1286 = {
+    id = 1286
+    provinces = { "x" }
+}
+
+STATE_SEA_1287 = {
+    id = 1287
+    provinces = { "x" }
+}
+
+STATE_SEA_1288 = {
+    id = 1288
+    provinces = { "x" }
+}
+
+STATE_SEA_1289 = {
+    id = 1289
+    provinces = { "x" }
+}
+
+STATE_SEA_1290 = {
+    id = 1290
+    provinces = { "x" }
+}
+
+STATE_SEA_1291 = {
+    id = 1291
+    provinces = { "x" }
+}
+
+STATE_SEA_1292 = {
+    id = 1292
+    provinces = { "x" }
+}
+
+STATE_SEA_1293 = {
+    id = 1293
+    provinces = { "x" }
+}
+
+STATE_SEA_1294 = {
+    id = 1294
+    provinces = { "x" }
+}
+
+STATE_SEA_1295 = {
+    id = 1295
+    provinces = { "x" }
+}
+
+STATE_SEA_1296 = {
+    id = 1296
+    provinces = { "x" }
+}
+
+STATE_SEA_1297 = {
+    id = 1297
+    provinces = { "x" }
+}
+
+STATE_SEA_1298 = {
+    id = 1298
+    provinces = { "x" }
+}
+
+STATE_SEA_1299 = {
+    id = 1299
+    provinces = { "x" }
+}
+
+STATE_SEA_1300 = {
+    id = 1300
+    provinces = { "x" }
+}
+
+STATE_SEA_1301 = {
+    id = 1301
+    provinces = { "x" }
+}
+
+STATE_SEA_1302 = {
+    id = 1302
+    provinces = { "x" }
+}
+
+STATE_SEA_1303 = {
+    id = 1303
+    provinces = { "x" }
+}
+
+STATE_SEA_1304 = {
+    id = 1304
+    provinces = { "x" }
+}
+
+STATE_SEA_1305 = {
+    id = 1305
+    provinces = { "x" }
+}
+
+STATE_SEA_1306 = {
+    id = 1306
+    provinces = { "x" }
+}
+
+STATE_SEA_1307 = {
+    id = 1307
+    provinces = { "x" }
+}
+
+STATE_SEA_1308 = {
+    id = 1308
+    provinces = { "x" }
+}
+
+STATE_SEA_1309 = {
+    id = 1309
+    provinces = { "x" }
+}
+
+STATE_SEA_1310 = {
+    id = 1310
+    provinces = { "x" }
+}
+
+STATE_SEA_1311 = {
+    id = 1311
+    provinces = { "x" }
+}
+
+STATE_SEA_1312 = {
+    id = 1312
+    provinces = { "x" }
+}
+
+STATE_SEA_1313 = {
+    id = 1313
+    provinces = { "x" }
+}
+
+STATE_SEA_1314 = {
+    id = 1314
+    provinces = { "x" }
+}
+
+STATE_SEA_1315 = {
+    id = 1315
+    provinces = { "x" }
+}
+
+STATE_SEA_1316 = {
+    id = 1316
+    provinces = { "x" }
+}
+
+STATE_SEA_1317 = {
+    id = 1317
+    provinces = { "x" }
+}
+
+STATE_SEA_1318 = {
+    id = 1318
+    provinces = { "x" }
+}
+
+STATE_SEA_1319 = {
+    id = 1319
+    provinces = { "x" }
+}
+
+STATE_SEA_1320 = {
+    id = 1320
+    provinces = { "x" }
+}
+
+STATE_SEA_1321 = {
+    id = 1321
+    provinces = { "x" }
+}
+
+STATE_SEA_1322 = {
+    id = 1322
+    provinces = { "x" }
+}
+
+STATE_SEA_1323 = {
+    id = 1323
+    provinces = { "x" }
+}
+
+STATE_SEA_1324 = {
+    id = 1324
+    provinces = { "x" }
+}
+
+STATE_SEA_1325 = {
+    id = 1325
+    provinces = { "x" }
+}
+
+STATE_SEA_1326 = {
+    id = 1326
+    provinces = { "x" }
+}
+
+STATE_SEA_1327 = {
+    id = 1327
+    provinces = { "x" }
+}
+
+STATE_SEA_1328 = {
+    id = 1328
+    provinces = { "x" }
+}
+
+STATE_SEA_1329 = {
+    id = 1329
+    provinces = { "x" }
+}
+
+STATE_SEA_1330 = {
+    id = 1330
+    provinces = { "x" }
+}
+
+STATE_SEA_1331 = {
+    id = 1331
+    provinces = { "x" }
+}
+
+STATE_SEA_1332 = {
+    id = 1332
+    provinces = { "x" }
+}
+
+STATE_SEA_1333 = {
+    id = 1333
+    provinces = { "x" }
+}
+
+STATE_SEA_1334 = {
+    id = 1334
+    provinces = { "x" }
+}
+
+STATE_SEA_1335 = {
+    id = 1335
+    provinces = { "x" }
+}
+
+STATE_SEA_1336 = {
+    id = 1336
+    provinces = { "x" }
+}
+
+STATE_SEA_1337 = {
+    id = 1337
+    provinces = { "x" }
+}
+
+STATE_SEA_1338 = {
+    id = 1338
+    provinces = { "x" }
+}
+
+STATE_SEA_1339 = {
+    id = 1339
+    provinces = { "x" }
+}
+
+STATE_SEA_1340 = {
+    id = 1340
+    provinces = { "x" }
+}
+
+STATE_SEA_1341 = {
+    id = 1341
+    provinces = { "x" }
+}
+
+STATE_SEA_1342 = {
+    id = 1342
+    provinces = { "x" }
+}
+
+STATE_SEA_1343 = {
+    id = 1343
+    provinces = { "x" }
+}
+
+STATE_SEA_1344 = {
+    id = 1344
+    provinces = { "x" }
+}
+
+STATE_SEA_1345 = {
+    id = 1345
+    provinces = { "x" }
+}
+
+STATE_SEA_1346 = {
+    id = 1346
+    provinces = { "x" }
+}
+
+STATE_SEA_1347 = {
+    id = 1347
+    provinces = { "x" }
+}
+
+STATE_SEA_1348 = {
+    id = 1348
+    provinces = { "x" }
+}
+
+STATE_SEA_1349 = {
+    id = 1349
+    provinces = { "x" }
+}
+
+STATE_SEA_1350 = {
+    id = 1350
+    provinces = { "x" }
+}
+
+STATE_SEA_1351 = {
+    id = 1351
+    provinces = { "x" }
+}
+
+STATE_SEA_1352 = {
+    id = 1352
+    provinces = { "x" }
+}
+
+STATE_SEA_1353 = {
+    id = 1353
+    provinces = { "x" }
+}
+
+STATE_SEA_1354 = {
+    id = 1354
+    provinces = { "x" }
+}
+
+STATE_SEA_1355 = {
+    id = 1355
+    provinces = { "x" }
+}
+
+STATE_SEA_1356 = {
+    id = 1356
+    provinces = { "x" }
+}
+
+STATE_SEA_1357 = {
+    id = 1357
+    provinces = { "x" }
+}
+
+STATE_SEA_1358 = {
+    id = 1358
+    provinces = { "x" }
+}
+
+STATE_SEA_1359 = {
+    id = 1359
+    provinces = { "x" }
+}
+
+STATE_SEA_1360 = {
+    id = 1360
+    provinces = { "x" }
+}

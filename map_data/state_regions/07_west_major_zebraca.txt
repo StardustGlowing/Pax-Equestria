@@ -1,0 +1,544 @@
+﻿STATE_356 = {
+    id = 356
+    provinces = { "x" }
+}
+
+STATE_357 = {
+    id = 357
+    provinces = { "x" }
+}
+
+STATE_358 = {
+    id = 358
+    provinces = { "x" }
+}
+
+STATE_359 = {
+    id = 359
+    provinces = { "x" }
+}
+
+STATE_360 = {
+    id = 360
+    provinces = { "x" }
+}
+
+STATE_361 = {
+    id = 361
+    provinces = { "x" }
+}
+
+STATE_362 = {
+    id = 362
+    provinces = { "x" }
+}
+
+STATE_363 = {
+    id = 363
+    provinces = { "x" }
+}
+
+STATE_364 = {
+    id = 364
+    provinces = { "x" }
+}
+
+STATE_365 = {
+    id = 365
+    provinces = { "x" }
+}
+
+STATE_366 = {
+    id = 366
+    provinces = { "x" }
+}
+
+STATE_367 = {
+    id = 367
+    provinces = { "x" }
+}
+
+STATE_368 = {
+    id = 368
+    provinces = { "x" }
+}
+
+STATE_369 = {
+    id = 369
+    provinces = { "x" }
+}
+
+STATE_370 = {
+    id = 370
+    provinces = { "x" }
+}
+
+STATE_371 = {
+    id = 371
+    provinces = { "x" }
+}
+
+STATE_372 = {
+    id = 372
+    provinces = { "x" }
+}
+
+STATE_373 = {
+    id = 373
+    provinces = { "x" }
+}
+
+STATE_374 = {
+    id = 374
+    provinces = { "x" }
+}
+
+STATE_375 = {
+    id = 375
+    provinces = { "x" }
+}
+
+STATE_376 = {
+    id = 376
+    provinces = { "x" }
+}
+
+STATE_377 = {
+    id = 377
+    provinces = { "x" }
+}
+
+STATE_378 = {
+    id = 378
+    provinces = { "x" }
+}
+
+STATE_379 = {
+    id = 379
+    provinces = { "x" }
+}
+
+STATE_380 = {
+    id = 380
+    provinces = { "x" }
+}
+
+STATE_381 = {
+    id = 381
+    provinces = { "x" }
+}
+
+STATE_382 = {
+    id = 382
+    provinces = { "x" }
+}
+
+STATE_383 = {
+    id = 383
+    provinces = { "x" }
+}
+
+STATE_384 = {
+    id = 384
+    provinces = { "x" }
+}
+
+STATE_385 = {
+    id = 385
+    provinces = { "x" }
+}
+
+STATE_386 = {
+    id = 386
+    provinces = { "x" }
+}
+
+STATE_387 = {
+    id = 387
+    provinces = { "x" }
+}
+
+STATE_388 = {
+    id = 388
+    provinces = { "x" }
+}
+
+STATE_389 = {
+    id = 389
+    provinces = { "x" }
+}
+
+STATE_390 = {
+    id = 390
+    provinces = { "x" }
+}
+
+STATE_391 = {
+    id = 391
+    provinces = { "x" }
+}
+
+STATE_392 = {
+    id = 392
+    provinces = { "x" }
+}
+
+STATE_393 = {
+    id = 393
+    provinces = { "x" }
+}
+
+STATE_394 = {
+    id = 394
+    provinces = { "x" }
+}
+
+STATE_395 = {
+    id = 395
+    provinces = { "x" }
+}
+
+STATE_396 = {
+    id = 396
+    provinces = { "x" }
+}
+
+STATE_397 = {
+    id = 397
+    provinces = { "x" }
+}
+
+STATE_398 = {
+    id = 398
+    provinces = { "x" }
+}
+
+STATE_399 = {
+    id = 399
+    provinces = { "x" }
+}
+
+STATE_400 = {
+    id = 400
+    provinces = { "x" }
+}
+
+STATE_401 = {
+    id = 401
+    provinces = { "x" }
+}
+
+STATE_402 = {
+    id = 402
+    provinces = { "x" }
+}
+
+STATE_403 = {
+    id = 403
+    provinces = { "x" }
+}
+
+STATE_404 = {
+    id = 404
+    provinces = { "x" }
+}
+
+STATE_405 = {
+    id = 405
+    provinces = { "x" }
+}
+
+STATE_406 = {
+    id = 406
+    provinces = { "x" }
+}
+
+STATE_407 = {
+    id = 407
+    provinces = { "x" }
+}
+
+STATE_408 = {
+    id = 408
+    provinces = { "x" }
+}
+
+STATE_409 = {
+    id = 409
+    provinces = { "x" }
+}
+
+STATE_410 = {
+    id = 410
+    provinces = { "x" }
+}
+
+STATE_411 = {
+    id = 411
+    provinces = { "x" }
+}
+
+STATE_412 = {
+    id = 412
+    provinces = { "x" }
+}
+
+STATE_413 = {
+    id = 413
+    provinces = { "x" }
+}
+
+STATE_414 = {
+    id = 414
+    provinces = { "x" }
+}
+
+STATE_415 = {
+    id = 415
+    provinces = { "x" }
+}
+
+STATE_416 = {
+    id = 416
+    provinces = { "x" }
+}
+
+STATE_417 = {
+    id = 417
+    provinces = { "x" }
+}
+
+STATE_418 = {
+    id = 418
+    provinces = { "x" }
+}
+
+STATE_419 = {
+    id = 419
+    provinces = { "x" }
+}
+
+STATE_420 = {
+    id = 420
+    provinces = { "x" }
+}
+
+STATE_421 = {
+    id = 421
+    provinces = { "x" }
+}
+
+STATE_422 = {
+    id = 422
+    provinces = { "x" }
+}
+
+STATE_423 = {
+    id = 423
+    provinces = { "x" }
+}
+
+STATE_424 = {
+    id = 424
+    provinces = { "x" }
+}
+
+STATE_425 = {
+    id = 425
+    provinces = { "x" }
+}
+
+STATE_426 = {
+    id = 426
+    provinces = { "x" }
+}
+
+STATE_427 = {
+    id = 427
+    provinces = { "x" }
+}
+
+STATE_428 = {
+    id = 428
+    provinces = { "x" }
+}
+
+STATE_429 = {
+    id = 429
+    provinces = { "x" }
+}
+
+STATE_430 = {
+    id = 430
+    provinces = { "x" }
+}
+
+STATE_431 = {
+    id = 431
+    provinces = { "x" }
+}
+
+STATE_432 = {
+    id = 432
+    provinces = { "x" }
+}
+
+STATE_433 = {
+    id = 433
+    provinces = { "x" }
+}
+
+STATE_434 = {
+    id = 434
+    provinces = { "x" }
+}
+
+STATE_435 = {
+    id = 435
+    provinces = { "x" }
+}
+
+STATE_436 = {
+    id = 436
+    provinces = { "x" }
+}
+
+STATE_437 = {
+    id = 437
+    provinces = { "x" }
+}
+
+STATE_438 = {
+    id = 438
+    provinces = { "x" }
+}
+
+STATE_439 = {
+    id = 439
+    provinces = { "x" }
+}
+
+STATE_440 = {
+    id = 440
+    provinces = { "x" }
+}
+
+STATE_441 = {
+    id = 441
+    provinces = { "x" }
+}
+
+STATE_442 = {
+    id = 442
+    provinces = { "x" }
+}
+
+STATE_443 = {
+    id = 443
+    provinces = { "x" }
+}
+
+STATE_444 = {
+    id = 444
+    provinces = { "x" }
+}
+
+STATE_445 = {
+    id = 445
+    provinces = { "x" }
+}
+
+STATE_446 = {
+    id = 446
+    provinces = { "x" }
+}
+
+STATE_447 = {
+    id = 447
+    provinces = { "x" }
+}
+
+STATE_448 = {
+    id = 448
+    provinces = { "x" }
+}
+
+STATE_449 = {
+    id = 449
+    provinces = { "x" }
+}
+
+STATE_450 = {
+    id = 450
+    provinces = { "x" }
+}
+
+STATE_451 = {
+    id = 451
+    provinces = { "x" }
+}
+
+STATE_452 = {
+    id = 452
+    provinces = { "x" }
+}
+
+STATE_453 = {
+    id = 453
+    provinces = { "x" }
+}
+
+STATE_454 = {
+    id = 454
+    provinces = { "x" }
+}
+
+STATE_455 = {
+    id = 455
+    provinces = { "x" }
+}
+
+STATE_456 = {
+    id = 456
+    provinces = { "x" }
+}
+
+STATE_457 = {
+    id = 457
+    provinces = { "x" }
+}
+
+STATE_458 = {
+    id = 458
+    provinces = { "x" }
+}
+
+STATE_459 = {
+    id = 459
+    provinces = { "x" }
+}
+
+STATE_460 = {
+    id = 460
+    provinces = { "x" }
+}
+
+STATE_461 = {
+    id = 461
+    provinces = { "x" }
+}
+
+STATE_462 = {
+    id = 462
+    provinces = { "x" }
+}
+
+STATE_463 = {
+    id = 463
+    provinces = { "x" }
+}
+
+STATE_464 = {
+    id = 464
+    provinces = { "x" }
+}
