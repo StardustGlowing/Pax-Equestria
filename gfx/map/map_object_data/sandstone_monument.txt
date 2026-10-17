@@ -1,0 +1,8 @@
+﻿object={
+	name="sandstone_monument_01"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="massive_environment"
+	pdxmesh="sandstone_monument_01_mesh"
+}

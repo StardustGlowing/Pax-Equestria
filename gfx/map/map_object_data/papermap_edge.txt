@@ -1,0 +1,18 @@
+﻿object={
+	name="edgeofworld_papermap"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="papermap_layer"
+	pdxmesh="edgeofworld_papermap_mesh"
+	transform_bin_file="gfx/map/map_object_data/edgeofworld_papermap.bin"
+}
+object={
+	name="papermap_endofworld"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="static"
+	pdxmesh="edgeofworld_mesh"
+	transform_bin_file="gfx/map/map_object_data/papermap_endofworld.bin"
+}
