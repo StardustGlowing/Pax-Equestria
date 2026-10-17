@@ -1,0 +1,9 @@
+﻿STATE_OCEAN_001 = {
+    id = 1200
+    provinces = { "x31483B" "x8C4739" }
+}
+
+STATE_OCEAN_002 = {
+    id = 1201
+    provinces = { "x3D3825" }
+}
