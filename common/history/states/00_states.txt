@@ -1,4 +1,4 @@
-# Why do some state entries have quote marks around them, when others don't?
+﻿# Why do some state entries have quote marks around them, when others don't?
 # It's because of differing methods of editing throughout the production of the game. Quote marks are unnecessary, but harmless if present.
 
 STATES = {
@@ -370,5 +370,264 @@ STATES = {
 		}
 
 		add_homeland = cu:ahuizotl_pony
+	}
+
+	s:STATE_HAYJAZ = {
+		create_state = {
+			country = c:SAB
+			owned_provinces = { "x504421" "xA8C205" "xB99635" "xD4A31C" "xFFE6A2" }
+		}
+
+		add_homeland = cu:saddle_arabian
+	}
+	s:STATE_RIDEADH = {
+		create_state = {
+			country = c:SAB
+			owned_provinces = { "x104DCC" "x737A46" "x76803B" "xB7BF81" }
+		}
+
+		add_homeland = cu:saddle_arabian
+	}
+	s:STATE_GALLOPING_GULF = {
+		create_state = {
+			country = c:SAB
+			owned_provinces = { "x722743" "x94BCCF" "x9CD933" "x9DB671" "xBEDE30" }
+		}
+
+		add_homeland = cu:saddle_arabian
+		add_homeland = cu:nightmare
+	}
+
+	s:STATE_SADDLE_BDD = {
+		create_state = {
+			country = c:BDD
+			owned_provinces = { "xFF882E" "xFF9400" "xFF9D65" "xFFD12E" }
+		}
+
+		add_homeland = cu:sand_fiend
+	}
+	s:STATE_PONIES_BONE_DRY_DESERT = {
+		create_state = {
+			country = c:BDD
+			owned_provinces = { "xC0663D" "xFF7664" "xFFA963" "xFFD063" }
+		}
+
+		add_homeland = cu:sand_fiend
+	}
+	s:STATE_DOGS_BDD = {
+		create_state = {
+			country = c:BDD
+			owned_provinces = { "x0C6709" "x3C62FF" "x5205C2" "xFF7F00" }
+		}
+
+		add_homeland = cu:sand_fiend
+    }
+	s:STATE_CATS_BDD = {
+		create_state = {
+			country = c:BDD
+			owned_provinces = { "xD8864F" "xFF6C0A" "xFFA10B" "xFFAC63" }
+		}
+
+		add_homeland = cu:sand_fiend
+	}
+
+	s:STATE_K_TOWN = {
+		create_state = {
+			country = c:KGT
+			owned_provinces = { "xD4C155" "xE6CD41" "xFFEE00" "xFFF355" }
+		}
+
+		add_homeland = cu:sand_fiend
+	}
+	s:STATE_K_TOWN_OUTSKIRTS = {
+		create_state = {
+			country = c:KGT
+			owned_provinces = { "x875523" "x88623C" "xC59D74" "xD47B21" }
+		}
+
+		add_homeland = cu:sand_fiend
+	}
+
+	s:STATE_SEA_OF_CLOUDS = {
+		create_state = {
+			country = c:CWD
+			owned_provinces = { "x3EB2AE" "x8EFFE4" "x90C6B9" "x9ADFE4" }
+		}
+
+		add_homeland = cu:merchant_striarabians
+	}
+
+	s:STATE_CAMPENIA = {
+		create_state = {
+			country = c:NEP
+			owned_provinces = { "x05DD02" "x37432F" "x582F66" "x778E68" "x80887B" }
+		}
+
+		add_homeland = cu:pegasus
+	}
+	s:STATE_BASADLECA = {
+		create_state = {
+			country = c:NEP
+			owned_provinces = { "x459136" "x657B56" "x7DB172" "x87A681" "x9DD27A" }
+		}
+
+		add_homeland = cu:pegasus
+	}
+
+	s:STATE_CLOUD_COVER = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x186E42" "x1D4FBD" "x33FF00" "x440671" "x55B081" }
+		}
+
+		add_homeland = cu:equestrian_kelpie
+		add_homeland = cu:slug_troll
+	}
+	s:STATE_SLUG_TROLL_SWAMP = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x1C7027" "x499B75" "x519B49" "xB6E28D" "xE051E0" }
+		}
+
+		add_homeland = cu:slug_troll
+		add_homeland = cu:equestrian_kelpie
+	}
+
+	s:STATE_MOUNTS_SHADE = {
+		create_state = {
+			country = c:CNN
+			owned_provinces = { "x283D4B" "x28475E" "x315E91" "x31918F" "x526879" "x56B8B3" "x5A7574" "x6A8597" }
+		}
+
+		add_homeland = cu:dog
+	}
+	s:STATE_SLOPE_OF_DISAPPOINTMENT = {
+		create_state = {
+			country = c:CNN
+			owned_provinces = { "x5B5B73" "x7070C7" "x7979DE" "x79A5DE" "x9F74C0" }
+		}
+
+		add_homeland = cu:dog
+	}
+	s:STATE_DIAMOND_DOGS_DUG_DIVEN = {
+		create_state = {
+			country = c:CNN
+			owned_provinces = { "x0E8099" "x27276F" "x34345B" "x4444D4" "x666697" }
+		}
+
+		add_homeland = cu:diamond_dog
+		add_homeland = cu:dog
+	}
+
+	s:STATE_LITTER_BOX_RIDGE = {
+		create_state = {
+			country = c:MAU
+			owned_provinces = { "x693756" "x985D81" "xA586AA" "xA83D7F" "xFF77CD" }
+		}
+
+		add_homeland = cu:cat
+	}
+	s:STATE_MAU = {
+		create_state = {
+			country = c:MAU
+			owned_provinces = { "x60DD45" "x623D67" "x804AC9" "x913796" "x9439A2" }
+		}
+
+		add_homeland = cu:cat
+	}
+	s:STATE_SHIRE_LANKA = {
+		create_state = {
+			country = c:MAU
+			owned_provinces = { "x68522F" "x786034" "x8F7151" "x8F7B51" "xAEA06F" "xB1712B" "xB36A2B" "xB4BA4A" "xC3A87B" "xCB994C" "xE4B75E" }
+		}
+
+		add_homeland = cu:cat
+	}
+
+	s:STATE_PINE_NEEDLE_BARRENS = {
+		create_state = {
+			country = c:ABS
+			owned_provinces = { "x27706D" "x2D535E" "x53BDAD" "x6DAABE" }
+		}
+
+		add_homeland = cu:cat
+	}
+	s:STATE_BLACKPORT = {
+		create_state = {
+			country = c:ABS
+			owned_provinces = { "x503262" "x957CDF" "xA65BD2" "xD4AA8B" "xDF54FA" }
+		}
+
+		add_homeland = cu:cat
+	}
+	s:STATE_BASALT_BEACH = {
+		create_state = {
+			country = c:ABS
+			owned_provinces = { "x1558DC" "x261437" "x4B276F" "x7F6299" "x8B789D" }
+		}
+
+		add_homeland = cu:cat
+	}
+	s:STATE_PANTHERA = {
+		create_state = {
+			country = c:ABS
+			owned_provinces = { "x4C2667" "x6653BD" "x9153BD" "x9769B8" "xB484B9" }
+		}
+
+		add_homeland = cu:cat
+	}
+
+	s:STATE_KUNABULA = {
+		create_state = {
+			country = c:KNB
+			owned_provinces = { "x4F2C78" "x6F31B6" "x7B29D9" "x7D1FA9" "x8457B7" }
+		}
+
+		add_homeland = cu:great_kunabulan
+	}
+
+	s:STATE_UPPER_STORMISLANDS = {
+		create_state = {
+			country = c:SKD
+			owned_provinces = { "x2582AD" "x3A5A68" "x3E93BA" "x4713EB" "x68ACCC" }
+		}
+
+		add_homeland = cu:storm_creature
+	}
+	s:STATE_LOWER_STORMISLANDS = {
+		create_state = {
+			country = c:SKD
+			owned_provinces = { "x0C1A6D" "x2FC308" "x3B7AB9" "x4A59AC" "x4B5272" "x5966AE" }
+		}
+
+		add_homeland = cu:storm_creature
+	}
+
+	s:STATE_SEAQUESTRIA = {
+		create_state = {
+			country = c:HSE
+			owned_provinces = { "x6B2A75" "x707691" "x923B9F" "xA065A9" "xCC61DD" }
+		}
+
+		add_homeland = cu:hippogriff
+		add_homeland = cu:sea_pony
+	}
+	s:STATE_MOUNT_ARIS = {
+		create_state = {
+			country = c:HSE
+			owned_provinces = { "x1414B1" "x3B1841" "x4A384D" "x5E1B68" "x600C6D" }
+		}
+
+		add_homeland = cu:hippogriff
+		add_homeland = cu:sea_pony
+	}
+
+	s:STATE_ORNITHIA = {
+		create_state = {
+			country = c:ORN
+			owned_provinces = { "x40B0F9" "x47A979" "x761A28" "x772F12" "xC3E941" "xF6E6E7" "xF6EA6F" }
+		}
+
+		add_homeland = cu:ornithian
 	}
 }

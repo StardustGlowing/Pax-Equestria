@@ -75,7 +75,7 @@ region_south_equestria = {
         STATE_LITTER_BOX_RIDGE
         STATE_MAU
         STATE_SHIRE_LANKA
-        STATE_PINE_NEDDLE_BARRENS
+        STATE_PINE_NEEDLE_BARRENS
         STATE_BLACKPORT
         STATE_PANTHERA
         STATE_BASALT_BEACH

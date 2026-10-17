@@ -1032,7 +1032,7 @@ STATE_DIAMOND_DOGS_DUG_DIVEN = {
     }
 }
 
-STATE_PINE_NEDDLE_BARRENS = {
+STATE_PINE_NEEDLE_BARRENS = {
     id = 60
     provinces = { "x27706D" "x2D535E" "x53BDAD" "x6DAABE" }
     city = "x27706D"

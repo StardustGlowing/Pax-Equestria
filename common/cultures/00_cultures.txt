@@ -1,4 +1,4 @@
-yak = {
+﻿yak = {
     color = rgb{ 129 0 15 }
 
     religion = harmony
