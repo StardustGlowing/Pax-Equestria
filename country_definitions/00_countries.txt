@@ -1,0 +1,1079 @@
+YAK = { #Yakistan
+    color = { 255 140 148 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_YAK_TOWN
+}
+
+CRE = { #Crystal Empire
+    color = { 196 134 255 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_CRYSTAL_CAPITAL
+}
+
+EQS = { #Equestria
+    color = { 0 236 255 }
+
+    country_type = recognized
+    tier = hegemony
+    cultures = {}
+    capital = STATE_CANTERLOT
+}
+
+DMA = { #Daimondia
+    color = { 51 82 219 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_DAIMONDIA
+}
+
+NEQ = { #Null_Equestria
+    color = { 254 254 254}
+
+    country_type = decentralized
+    tier = city_state
+    cultures = {}
+    capital = STATE_LOWER_CRYSTAL_RANGE
+}
+
+TRO = { #Trotsylvania
+    color = { 12 0 126 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_BATNAT
+}
+
+CHE = { #Changeling_Hive 
+    color = { 0 117 23 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_FIRST_HIVE
+}
+
+AMT = { #Arimaspi_Territory
+    color = { 91 91 91 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_ARIMASPI_TERRITORY
+}
+
+BDL = { #The_Badlands
+    color = { 175 0 0 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_BADLANDS
+}
+
+KRC = { #Kirin_Community
+    color = { 255 155 160 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_FORBIDDEN_JUNGLE
+}
+
+DOA = { #Domain_of_Ahuizotl
+    color = { 147 255 160 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_TENOCHTITLAN_BASIN
+}
+
+SAB = { #Saddla_Arabia
+    color = { 174 255 0 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_HAYJAZ
+}
+
+BDD = { #Bone_Dry_Desert
+    color = { 255 255 255 }
+
+    country_type = decentralized
+    tier = principality
+    cultures = {}
+    capital = STATE_PONIES_BONE_DRY_DESERT
+}
+
+KGT = { #Kludgetown
+    color = { 0 255 255 }
+
+    country_type = unrecognized
+    tier = city_state
+    cultures = {}
+    capital = STATE_K_TOWN
+}
+
+NEP = { #Neighpels
+    color = { 169 191 179 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_CAMPENIA
+}
+
+CWD = { #Cloudward
+    color = { 0 255 203 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_SEA_OF_CLOUDS
+}
+
+KLA = { #Kelpica
+    color = { 0 123 69 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_CLOUD_COVER
+}
+
+KNB = { #Kunabula
+    color = { 0 0 0 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_KUNABULA
+}
+
+SKD = { #Storms
+    color = { 40 73 137 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_UPPER_STORMISLANDS
+}
+
+CNN = { #Caninia
+    color = { 177 172 192 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_SLOPE_OF_DISAPPOINTMENT
+}
+
+ABS = { #Abyssinia
+    color = { 185 4 231 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_PANTHERA
+}
+
+MAU = { #Mau
+    color = { 37 24 57 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MAU
+}
+
+HSE = { #Hipogrifia-Seaquestria
+    color = { 189 168 255 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_MOUNT_ARIS
+}
+
+ORN = { #Ornithia
+    color = { 87 35 35 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_ORNITHIA
+}
+###############################################################################################
+THR = { #Thrace
+    color = { 5 0 136 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_WATCHTOWERS_SHADE
+}
+
+MRT = { #Maretonia
+    color = { 255 208 164 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_VLADIVOSTABLE
+}
+
+VDM = { #Vingdimir
+    color = { 7 57 155 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_NOVPEN
+}
+
+GFS = { #Griffonstone
+    color = { 90 90 90}
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_GRYFFISH_ISLES
+}
+
+BBT = { #Bug_Bear_Territory
+    color = { 111 158 162 }
+
+    country_type = unrecognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_BUZSTOP
+}
+
+VEL = { #Veiland
+    color = { 255 255 255 }
+
+    country_type = decentralized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_GALE_JUNCTION
+}
+
+SIQ = { #The_Silver_Quilts
+    color = { 43 28 27 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MECKLENBEAK
+}
+
+PAR = { #Paria
+    color = { 97 31 159 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_PARIA
+}
+
+TWG = { #Twin_Gulf_Company
+    color = { 255 92 103 }
+
+    country_type = company
+    tier = kingdom
+    cultures = {}
+    capital = STATE_GULF_OF_MERVAN
+}
+
+NGF = { #Nogrifa
+    color = { 250 255 108 }
+
+    country_type = recognized
+    tier = kingdom 
+    cultures = {}
+    capital = STATE_CAHEN
+}
+
+HNS = { #Henestia
+    color = { 224 56 47 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_HENESTIA
+}
+
+BRE = { #Breen
+    color = { 201 255 196 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+HSR = { #Zaffre
+    color = { 220 194 121 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+CLD = { #Celadon
+    color = { 103 219 74 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+MHO = { #Mahogany
+    color = { 234 232 181 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+CQL = { #Coquelicot
+    color = { 201 255 196 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+ABG = { #Aubergine
+    color = { 221 201 168 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_UPPER_NEST
+}
+
+SLE = { #Slate
+    color = { 255 176 40 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_LOWER_NEST
+}
+
+AAA = { #Alabaster
+    color = { 74 78 219 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_LOWER_NEST
+}
+
+SPN = { #Sepian
+    color = { 172 172 172 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_LOWER_NEST
+}
+
+TUP = { #Taupe
+    color = { 137 228 231 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_LOWER_NEST
+}
+
+UBR = { #Umber
+    color = { 219 74 119 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_LOWER_NEST
+}
+
+AVA = { #Avianic_league
+    color = { 169 11 0 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_ANVEANIC_COAST
+}
+
+BDB = { #Birdenburg
+    color = { 61 64 73 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_BIRDENBURG
+}
+
+VLR = { #Volrania
+    color = { 165 255 220 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_AZOVAULT_GULF
+}
+
+CTG = { #Coltugal
+    color = { 17 142 19 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_LISBRIEGH
+}
+
+CVT = { #Cavelty
+    color = { 36 255 29 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_CALAMBRIDLE
+}
+
+HBR = { #Hayberia
+    color = { 255 199 31 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_LEONEIGH
+}
+
+PRA = { #Prance
+    color = { 0 2 124 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_BRIDANY
+}
+
+MNC = { #Monacolt
+    color = { 255 134 156 }
+
+    country_type = recognized
+    tier = city_state
+    cultures = {}
+    capital = STATE_GULF_OF_MANTICORE
+}
+
+BRL = { #Bridland
+    color = { 128 23 34 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_NORMANEDY
+}
+
+MLN = { #Manelenia
+    color = { 30 83 255 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_BYZANEIGHON
+}
+
+BGR = { #Belgaria
+    color = { 60 154 62 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_SOFILLYA
+}
+
+RNM = { #Reinmania
+    color = { 255 206 29 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MOUNTANIA
+}
+
+TCC = { #The_Common_Canter
+    color = { 255 60 112 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_POLOLAND
+}
+
+STL = { #Stablya
+    color = { 47 51 62 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MONTENEIGHGRO
+}
+
+CLT = { #Celtrot
+    color = { 112 255 69 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_BELGALLOP
+}
+
+NHL = { #United_Neigherlands
+    color = { 253 202 107 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_NEIGHTERLANDS
+}
+##############################################################################################################
+ODG = { #Odogan
+    color = { 133 239 164 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_THE_LAUNCHPAD 
+}
+
+BOD = { #Blank_Order
+    color = { 246 153 181 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_RUFFLEFEATHERS
+}
+
+MRS = { #Minartats
+    color = { 255 246 124 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_SHIPSLIP
+}
+
+SNL = { #Shinning_League
+    color = { 255 183 17 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_BY_THE_TRINKET_TAKERS
+}
+
+TOD = { #Todra
+    color = { 133 138 239 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_SULFUR_SINKHOLE
+}
+
+DNS = { #Donsai
+    color = { 216 110 255 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_DRAGONS_WOOD
+}
+
+DRK = { #Derakeda
+    color = { 255 212 0 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_DRAGONS_FARM
+}
+
+ESO = { #Eastshard_Order
+    color = { 51 0 8 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_PIKED_BAY
+}
+
+AZV = { #Alazur
+    color = { 26 49 102 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_CAPE_COMMET
+}
+
+TDM = { #Taidams
+    color = { 26 0 38 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_DRAGONS_IRON
+}
+
+MRK = { #Madraks
+    color = { 142 185 255 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_LITTLE_DRAGONS_SCHOOL
+}
+
+IDN = { #Idonix
+    color = { 7 250 255 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_UP_IDONIX
+}
+
+EMR = { #The_Empire
+    color = { 43 0 0 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_MIDDLE_SANCTUARY
+}
+
+RBS = { #Rainbow_Scale_Confederation
+    color = { 92 32 132 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_PRISM_PALISADES
+}
+
+TRV = { #Triven
+    color = { 255 199 0 }
+
+    country_type = recognized
+    tier = hegemony
+    cultures = {}
+    capital = STATE_MONOVEN
+}
+
+FMT = { #Filnt_Martial_Stare
+    color = { 85 124 216 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_MOUNTS_OF_MAYHEM
+}
+
+RSF = { #Rose_Scarf_Commonhorde
+    color = { 254 184 186 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_PLAINS_OF_SANCTUARY
+}
+
+KOL = { #Komtal
+    color = { 164 227 255 }
+    
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_KOMTAL
+}
+
+BKN = { #Bakin
+    color = { 255 251 24 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_BAKIN
+}
+
+DNM = { #Dishmaned
+    color = { 232 163 255 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_DIAHMANED
+}
+
+ACL = { #Ascalea
+    color = { 86 121 99 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_ASCALEA
+}
+
+AHK = { #Ashkiran
+    color = { 159 6 255 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_ASCALEA
+}
+
+FHR = { #1_Herd
+    color = { 255 247 140 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_YARKUTIA
+}
+
+SHR = { #2_Herd
+    color = { 255 247 140 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_YARKUTIA
+}
+
+HHR = { #3_Herd
+    color = { 255 247 140 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_THE_FLUF_FACILITIES
+}
+
+OHR = { #4_Herd
+    color = { 255 247 140 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_KRASNUGGLE
+}
+
+VHR = { #5_Herd
+    color = { 255 247 140 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_KRASNUGGLE
+}
+
+POV = { #The_Path_of_Victory
+    color = { 84 216 122 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_START_LINE_ISLANDS 
+}
+###################################################################################################################################
+CHR = { #Here_be_Changelings
+    color = { 37 37 37 }
+
+    country_type = unrecognized
+    tier = empire
+    cultures = {}
+    capital = STATE_FRIGHTENED_FRONTIER
+}
+
+MRH = { #Maroth
+    color = { 155 22 55 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_MAROTH
+}
+
+OKM = { #Okambo
+    color = { 112 142 107 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_BAS_THO
+}
+
+KBA = { #Kembasa
+    color = { 41 44 176 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_KELPIA
+}
+
+FSI = { #Ferasi
+    color = { 234 173 255 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_FARASI_COAST
+}
+
+FRS = { #Ferasi_Desert
+    color = { 255 255 255 }
+
+    country_type = decentralized
+    tier = city_state
+    cultures = {}
+    capital = STATE_FARASI_COAST
+}
+
+BST = { #Republic_of_Bent_Stripes
+    color = { 0 0 0 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_ZOCOTRI
+}
+
+OTL = { #Ostalion
+    color = { 153 164 191 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_OSTALION
+}
+
+LBN = { #Libreigh
+    color = { 231 186 128 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_STRIPOLI
+}
+
+YMN = { #Yemane
+    color = { 255 249 102 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_YEMANE
+}
+
+TNT = { #Tustria
+    color = { 240 169 255 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_TUNISTRIA
+}
+
+CFT = { #Cafet
+    color = { 255 199 0 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MAZEB
+}
+
+MZB = { #Mazeb
+    color = { 25 69 160 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_CASAZBRANCA
+}
+
+CDR = { #Cadre
+    color = { 250 255 0 }
+
+    country_type = recognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_ENNEIGHDI
+}
+
+MZE = { #Mezame
+    color = { 75 130 80 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_HORSEMUZ
+}
+
+SIA = { #Shimena
+    color = { 108 36 49 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_THE_SEA_OF_SANDS
+}
+
+DEM = { #Desem
+    color = { 130 75 123 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_GLOWSTILL
+}
+
+PBR = { #Pembreigh
+    color = { 168 192 255 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MAREDAGASCAR
+}
+
+IRR = { #Imaneriri
+    color = { 227 156 164 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MAREDAGASCAR
+}
+
+MLH = { #Malineigh
+    color = { 88 126 232 }
+    
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_MAREDAGASCAR   
+}
+
+ZZB = { #Zanzebra
+    color = { 9 38 113 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_NEW_ENTRANCE
+}
+
+BRF = { #Bandraft
+    color = { 224 183 153 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_NEW_ENTRANCE
+}
+
+MBS = { #Manebasa
+    color = { 79 84 98 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_GREATER_CAPE_OF_NO_HOPE
+}
+
+SDL = { #Saddalesi
+    color = { 229 205 187 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_GREATER_CAPE_OF_NO_HOPE
+}
+
+LTD = { #Landtide
+    color = { 255 255 255 }
+
+    country_type = decentralized
+    tier = city_state
+    cultures = {}
+    capital = STATE_THE_MORTARS
+}
+
+ZBE = { #Zebrabwe
+    color = { 225 217 136 }
+
+    country_type = unrecognized
+    tier = grand_principality
+    cultures = {}
+    capital = STATE_OLD_ZEBRABWE
+}
+
+LMN = { #Lamane
+    color = { 83 107 163 }
+
+    country_type = recognized
+    tier = principality
+    cultures = {}
+    capital = STATE_THE_MARELACCA
+}
+
+SST = { #The_Striped_Shatters
+    color = { 255 255 255 }
+
+    country_type = decentralized
+    tier = city_state
+    cultures = {}
+    capital = STATE_THE_STRIPED_SHATTERS
+}
+
+CTN = { #Costal_Caretaker
+    color = { 152 117 198 }
+
+    country_type = recognized
+    tier = empire
+    cultures = {}
+    capital = STATE_BORNEIGHO
+}
+
+QDJ = { #Queendom_of_Javault
+    color = { 131 33 33 }
+
+    country_type = recognized
+    tier = kingdom
+    cultures = {}
+    capital = STATE_JAVAULT
+}
