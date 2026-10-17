@@ -1,0 +1,31 @@
+language_group_highlands = { #For Yaks
+    type = language
+}
+
+language_group_friendship = { #Friendship stuff
+    type = language
+}
+
+language_group_equestria_wastelands = {
+    type = language
+}
+
+language_group_birdsong = { #For Griffons
+    type = language
+}
+
+language_group_calabias = {
+    type = language
+}
+
+language_group_fire_words = { #For Dragons and Kirins
+    type = language
+}
+
+language_group_sand_words = { #For Tialhums and Zebras
+    type = language
+}
+
+language_group_place_holder = { ### This is a placeholder language group for testing purposes. It should be removed or changed before release.
+    type = language
+}

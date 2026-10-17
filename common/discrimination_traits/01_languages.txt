@@ -1,0 +1,59 @@
+language_yakish = {
+    type = language
+    trait_group = language_group_highlands
+}
+
+language_reindeer_words = {
+    type = language
+    trait_group = language_group_highlands
+}
+
+language_ponish = {
+    type = language
+    trait_group = language_group_friendship
+}
+
+language_deer_words = {
+    type = language
+    trait_group = language_group_friendship
+}
+
+language_kirinise = {
+    type = language
+    trait_group = language_group_fire_words
+}
+
+language_bone_dry_desert = {
+    type = language
+    trait_group = language_group_equestria_wastelands
+}
+
+language_beyond_equestria = {
+    type = language
+    trait_group = language_group_equestria_wastelands
+}
+
+language_flying_words = {
+    type = language
+    trait_group = language_group_birdsong
+}
+
+language_tbt = {
+    type = language
+    trait_group = language_group_calabias
+}
+
+language_dragonish = {
+    type = language
+    trait_group = language_group_fire_words
+}
+
+language_tialhums = {
+    type = language
+    trait_group = language_group_sand_words
+}
+
+language_place_holder = { ### This is a placeholder language for testing purposes. It should be removed or changed before release.
+    type = language
+    trait_group = language_group_place_holder
+}

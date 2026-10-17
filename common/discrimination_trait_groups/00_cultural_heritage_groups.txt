@@ -1,0 +1,43 @@
+heritage_group_main_equestrian = {
+	type = heritage
+}
+
+heritage_group_outer_equestrian = {
+    type = heritage
+}
+
+heritage_group_griffonian = {
+    type = heritage
+}
+
+heritage_group_calabian = {
+    type = heritage
+}
+
+heritage_group_dragonlands = {
+    type = heritage
+}
+
+heritage_group_kirinian = {
+    type = heritage
+}
+
+heritage_group_unknown = {
+    type = heritage
+}
+
+heritage_group_tialhum = {
+    type = heritage
+}
+
+heritage_group_nuswatratan = {
+    type = heritage
+}
+
+heritage_group_pan_zebrica = {
+    type = heritage
+}
+
+heritage_group_cultural_place_holder = { ### This is a placeholder cultural heritage group for testing purposes. It should be removed or changed before release.
+    type = heritage
+}

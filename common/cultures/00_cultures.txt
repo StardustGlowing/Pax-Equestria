@@ -1,0 +1,809 @@
+yak = {
+    color = rgb{ 129 0 15 }
+
+    religion = harmony
+    heritage = heritage_equestria_highlands
+    language = language_yakish
+    traditions = {
+        tradition_frozenlands
+    }
+    male_common_first_names = { Yak }
+    female_common_first_names = { Yak }
+    common_last_names = { Yak }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+reindeer = {
+    color = rgb{ 0 255 21 }
+
+    religion = jollyness
+    heritage = heritage_equestria_highlands
+    language = language_reindeer_words
+    traditions = {
+        tradition_frozenlands
+    }
+    male_common_first_names = { Reindeer }
+    female_common_first_names = { Reindeer }
+    common_last_names = { Reindeer }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+crystal_pony = {
+    color = rgb{ 255 84 229 }
+
+    religion = harmony
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_friendly
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+trotsilvanian = {
+    color = rgb{ 0 11 140 }
+
+    religion = harmony
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_friendly
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+pegasus = { #Pegasi
+    color = rgb{ 178 247 255 }
+
+    religion = friendship
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_friendly
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+unicorn = {
+    color = rgb{ 184 91 255 }
+
+    religion = friendship
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_friendly
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+earth_pony = {
+    color = rgb{ 248 207 0 }
+
+    religion = friendship
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_friendly
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+deer = {
+    color = rgb{ 0 130 0 }
+
+    religion = harmony
+    heritage = heritage_everfree_forest
+    language = language_deer_words
+    traditions = {
+        tradition_nature
+    }
+    male_common_first_names = { Deer }
+    female_common_first_names = { Deer }
+    common_last_names = { Deer }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+diamond_dog = {
+    color = rgb{ 0 220 255 }
+
+    religion = harmony
+    heritage = heritage_equestria_highlands
+    language = language_ponish
+    traditions = {
+        tradition_frozenlands
+    }
+    male_common_first_names = { Dogs }
+    female_common_first_names = { Dogs }
+    common_last_names = { Dogs }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+tsafaran = {
+    color = rgb{ 248 255 133 }
+
+    religion = harmony
+    heritage = heritage_equestria_highlands
+    language = language_ponish
+    traditions = {
+        tradition_nature
+    }
+    male_common_first_names = { Tsafarans }
+    female_common_first_names = { Tsafarans }
+    common_last_names = { Tsafarans }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+reformed_changeling = {
+    color = rgb{ 0 220 255 }
+
+    religion = harmony
+    heritage = heritage_changeling
+    language = language_ponish
+    traditions = {
+        tradition_buzzling
+    }
+    male_common_first_names = { Changelings }
+    female_common_first_names = { Changelings }
+    common_last_names = { Changelings }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+arimaspi = {
+    color = rgb{ 64 64 64 }
+
+    religion = harmony
+    heritage = heritage_equestria_highlands
+    language = language_ponish
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Arimaspi }
+    female_common_first_names = { Arimaspi }
+    common_last_names = { Arimaspi }
+    graphics = african
+    ethnicities = { 
+        1 = caucasian
+    }
+}
+
+equestrian_farming_kirin = {
+    color = rgb{ 248 0 53 }
+
+    religion = friendship
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_slience
+    }
+    male_common_first_names = { Kirins }
+    female_common_first_names = { Kirins }
+    common_last_names = { Kirins }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+ahuizotl_pony = {
+    color = rgb{ 21 181 0 }
+
+    religion = friendship
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_nature
+    }
+    male_common_first_names = { Ponies }
+    female_common_first_names = { Ponies }
+    common_last_names = { Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+saddle_arabian = {
+    color = rgb{ 165 255 109 }
+
+    religion = place_holder
+    heritage = heritage_equestria_desert
+    language = language_bone_dry_desert
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Sab }
+    female_common_first_names = { Sab }
+    common_last_names = { Sab }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+nightmare = {
+    color = rgb{ 121 146 123 }
+
+    religion = place_holder
+    heritage = heritage_pony
+    language = language_bone_dry_desert
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Nightmare }
+    female_common_first_names = { Nightmare }
+    common_last_names = { Nightmare }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+sand_fiend = {
+    color = rgb{ 64 64 64 }
+
+    religion = place_holder
+    heritage = heritage_equestria_desert
+    language = language_bone_dry_desert
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Sfd }
+    female_common_first_names = { Sfd }
+    common_last_names = { Sfd }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+equestrian_kelpie = { #Trans-Tialhumite Kelpie
+    color = rgb{ 49 145 57 }
+
+    religion = place_holder
+    heritage = heritage_equestria_desert
+    language = language_bone_dry_desert
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Kelpie }
+    female_common_first_names = { Kelpie }
+    common_last_names = { Kelpie }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+slug_troll = {
+    color = rgb{ 20 35 21 }
+
+    religion = place_holder
+    heritage = heritage_basalt_lands
+    language = language_beyond_equestria
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Slug }
+    female_common_first_names = { Slug }
+    common_last_names = { Slug }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+dog = {
+    color = rgb{ 34 208 236 }
+
+    religion = place_holder
+    heritage = heritage_basalt_lands
+    language = language_beyond_equestria
+    traditions = { 
+        tradition_frozenlands
+     }
+    male_common_first_names = { Dog }
+    female_common_first_names = { Dog }
+    common_last_names = { Dog }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+cat = {
+    color = rgb{ 255 0 93 }
+
+    religion = place_holder
+    heritage = heritage_basalt_lands
+    language = language_beyond_equestria
+    traditions = {
+        tradition_frozenlands
+    }
+    male_common_first_names = { Cat }
+    female_common_first_names = { Cat }
+    common_last_names = { Cat}
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+great_kunabulan = {
+    color = rgb{ 185 94 255 }
+
+    religion = place_holder
+    heritage = heritage_place_holder
+    language = language_beyond_equestria
+    traditions = {
+        tradition_place_holder
+    }
+    male_common_first_names = { Kunas }
+    female_common_first_names = { Kunas }
+    common_last_names = { Kunas }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+storm_creature = {
+    color = rgb{ 0 46 117 }
+
+    religion = place_holder
+    heritage = heritage_place_holder
+    language = language_beyond_equestria
+    traditions = {
+        tradition_storm
+    }
+    male_common_first_names = { Storm }
+    female_common_first_names = { Storm }
+    common_last_names = { Storm }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+hippogriff = { #Hypogriphs
+    color = rgb{ 149 149 149 }
+
+    religion = harmony
+    heritage = heritage_basalt_lands
+    language = language_flying_words
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Hippogriff }
+    female_common_first_names = { Hippogriff }
+    common_last_names = { Hippogriff }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+sea_pony = {
+    color = rgb{ 21 115 178 }
+
+    religion = harmony
+    heritage = heritage_basalt_lands
+    language = language_beyond_equestria
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Sea Ponies }
+    female_common_first_names = { Sea Ponies }
+    common_last_names = { Sea Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+ornithian = {
+    color = rgb{ 149 149 149 }
+
+    religion = place_holder
+    heritage = heritage_basalt_lands
+    language = language_place_holder
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Ornithians }
+    female_common_first_names = { Ornithians }
+    common_last_names = { Ornithians }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+thracian = {
+    color = rgb{ 0 220 255 }
+
+    religion = anti_harmony
+    heritage = heritage_frozen_northlands
+    language = language_ponish
+    traditions = {
+        tradition_frozenlands
+    }
+    male_common_first_names = { Thracians }
+    female_common_first_names = { Thracians }
+    common_last_names = { Thracians }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+tbt = {
+    color = rgb{ 203 130 255 }
+
+    religion = place_holder
+    heritage = heritage_place_holder
+    language = language_tbt
+    traditions = {
+        tradition_place_holder
+    }
+    male_common_first_names = { TBT }
+    female_common_first_names = { TBT }
+    common_last_names = { TBT }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+bugbear = {
+    color = rgb{ 64 64 64 }
+
+    religion = griffonic_apathy
+    heritage = heritage_flying_warrior
+    language = language_flying_words
+    traditions = {
+        tradition_buzzling
+    }
+    male_common_first_names = { Bugbear }
+    female_common_first_names = { Bugbear }
+    common_last_names = { Bugbear }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+griffon = {
+    color = rgb{ 149 149 149 }
+
+    religion = griffonic_apathy
+    heritage = heritage_flying_warrior
+    language = language_flying_words
+    traditions = {
+        tradition_guardian
+    }
+    male_common_first_names = { Griffon }
+    female_common_first_names = { Griffon }
+    common_last_names = { Griffon }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+great_dragon = {
+    color = rgb{ 117 32 23 }
+
+    religion = dominace_dragonhood
+    heritage = heritage_dragon
+    language = language_dragonish
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Great Dragon }
+    female_common_first_names = { Great Dragon }
+    common_last_names = { Great Dragon }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+little_dragon = {
+    color = rgb{ 255 139 126 }
+
+    religion = dominace_dragonhood
+    heritage = heritage_dragon
+    language = language_dragonish
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Little Dragon }
+    female_common_first_names = { Little Dragon }
+    common_last_names = { Little Dragon }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+imperial_pony = {
+    color = rgb{ 210 88 212 }
+
+    religion = imperial_machine
+    heritage = heritage_pony
+    language = language_ponish
+    traditions = {
+        tradition_guardian
+    }
+    male_common_first_names = { Imperial Ponies}
+    female_common_first_names = { Imperial Ponies }
+    common_last_names = { Imperial Ponies }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+frequent_kirin = {
+    color = rgb{ 255 153 0 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Fq Kirin }
+    female_common_first_names = { Fq Kirin }
+    common_last_names = { Fq Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+farming_kirin = {
+    color = rgb{ 248 0 53 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Fm Kirin }
+    female_common_first_names = { Fq Kirin }
+    common_last_names = { Fq Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+fighting_kirin = {
+    color = rgb{ 0 46 140 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Ft Kirin }
+    female_common_first_names = { Ft Kirin }
+    common_last_names = { Ft Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+fae_kirin = {
+    color = rgb{ 123 0 255 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Fae Kirin }
+    female_common_first_names = { Fae Kirin }
+    common_last_names = { Fae Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+floof_kirin = {
+    color = rgb{ 255 255 255 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Floof Kirin }
+    female_common_first_names = { Floof Kirin }
+    common_last_names = { Floof Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+floating_kirin = {
+    color = rgb{ 0 255 170 }
+
+    religion = place_holder
+    heritage = heritage_kirin
+    language = language_kirinise
+    traditions = {
+        tradition_fire
+    }
+    male_common_first_names = { Floating Kirin }
+    female_common_first_names = { Floating Kirin }
+    common_last_names = { Floating Kirin }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+marothan = {
+    color = rgb{ 129 0 0 }
+
+    religion = place_holder
+    heritage = heritage_hostage_lands
+    language = language_tialhums
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Marothan }
+    female_common_first_names = { Marothan }
+    common_last_names = { Marothan }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+changeling = {
+    color = rgb{ 64 64 64 }
+
+    religion = changeling_order
+    heritage = heritage_changeling
+    language = language_ponish
+    traditions = {
+        tradition_buzzling
+    }
+    male_common_first_names = { Changelings }
+    female_common_first_names = { Changelings }
+    common_last_names = { Changelings }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+abada = {
+    color = rgb{ 145 219 92 }
+
+    religion = place_holder
+    heritage = heritage_hostage_lands
+    language = language_tialhums
+    traditions = {
+        tradition_sand
+    }
+    male_common_first_names = { Abada }
+    female_common_first_names = { Abada }
+    common_last_names = { Abada }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+zebrican_kelpie = {
+    color = rgb{ 21 115 178 }
+
+    religion = place_holder
+    heritage = heritage_merchant_lands
+    language = language_tialhums
+    traditions = {
+        tradition_water
+    }
+    male_common_first_names = { Zebrican Kelpie }
+    female_common_first_names = { Zebrican Kelpie }
+    common_last_names = { Zebrican Kelpie }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+merchant_striarabians = {
+    color = rgb{ 0 255 140 }
+
+    religion = purpose_state
+    heritage = heritage_merchant_lands
+    language = language_tialhums
+    traditions = {
+        tradition_trade
+    }
+    male_common_first_names = { Striarabians }
+    female_common_first_names = { Striarabians }
+    common_last_names = { Striarabians }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
+
+mercenary_striarabians = {
+    color = rgb{ 172 11 0 }
+
+    religion = place_holder
+    heritage = heritage_merchant_lands
+    language = language_tialhums
+    traditions = {
+        tradition_place_holder
+    }
+    male_common_first_names = { Striarabians }
+    female_common_first_names = { Striarabians }
+    common_last_names = { Striarabians }
+    graphics = african
+    ethnicities = {
+        1 = caucasian
+    }
+}
