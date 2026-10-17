@@ -1,0 +1,88 @@
+﻿harmony = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+	heritage = heritage_pony_belief #a heritage trait
+	color =  { 0.0 0.9 1.0 }	#color in RGB decimal
+	taboos = {	#optional list of consumable goods
+		meat
+	}
+}
+friendship = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_pony_belief #a heritage trait
+    color =  { 0.8 0.4 1.0 }	#color in RGB decimal
+    taboos = {	#optional list of consumable goods
+        meat
+    }
+}
+
+jollyness = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_reindeer_belief #a heritage trait
+    color =  { 0.0 1.0 0.0 }	#color in RGB decimal
+    taboos = {	#optional list of consumable goods
+        meat
+    }
+}
+
+anti_harmony = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_thracian_belief #a heritage trait
+    color =  { 1.0 0.5 0.5 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+griffonic_apathy = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_flying_belief #a heritage trait
+    color =  { 0.584 0.584 0.584 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+dominace_dragonhood = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_dragons_belief #a heritage trait
+    color =  { 0.922 0.271 0.188 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+imperial_machine = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_pony_belief #a heritage trait
+    color =  { 0.835 0.557 1 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+changeling_order = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_military_belief #a heritage trait
+    color =  { 0.486 0.235 0.235 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+purpose_state = {
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_trading_belief #a heritage trait
+    color =  { 0 1 0.549 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
+
+place_holder = { ### This is a placeholder religion for testing purposes. It should be removed or changed before release.
+    icon = "gfx\interface\icons\religion_icons\graph\placeholder.dds"	#image file
+    heritage = heritage_place_holder_belief #a heritage trait
+    color =  { 1 1 1 }	#color in RGB decimal
+    taboos = {
+        meat
+    }
+}
