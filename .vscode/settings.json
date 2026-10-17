@@ -1,10 +1,9 @@
 {
     "files.associations": {
-        "*.txt": "plaintext",
+        "*.txt": "paradox-vic3",
+        "**/gfx/**/*.asset": "paradox-vic3",
         "*.gui": "paradox-gui",
         "*.mod": "paradox-mod",
-        "**/localization/**/*.yml": "paradox-loc",
-        "**/gfx/**/*.asset": "paradox-vic3"
-    },
-    "px.excludedMods": []
+        "**/localization/**/*.yml": "paradox-loc"
+    }
 }
