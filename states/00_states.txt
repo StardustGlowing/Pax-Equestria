@@ -1,0 +1,374 @@
+# Why do some state entries have quote marks around them, when others don't?
+# It's because of differing methods of editing throughout the production of the game. Quote marks are unnecessary, but harmless if present.
+
+STATES = {
+	s:STATE_YAK_TOWN = {
+		create_state = {
+			country = c:YAK
+			owned_provinces = { "x64D5E0" "x732F2F" "xBB3232" "xE95F5F" "xF4209D" }
+		}
+
+		add_homeland = cu:yak
+	}
+	s:STATE_PATH_TO_THE_PONIES = {
+		create_state = {
+			country = c:YAK
+			owned_provinces = { "x512538" "x5F0D2F" "x73495B" "x9E3743" "xBA9208" }
+		}
+
+		add_homeland = cu:yak
+	}
+	s:STATE_OXENFORD = {
+		create_state = {
+			country = c:YAK
+			owned_provinces = { "x220707" "x412A2A" "x787C42" "xA03838" "xFFB9B9" }
+		}
+
+		add_homeland = cu:yak
+	}
+	s:STATE_GIFT_GIVERSGROVE = {
+		create_state = {
+			country = c:YAK
+			owned_provinces = { "x00FF26" "x5C122A" "x611230" "xAAA9EE" "xC8391D" }
+		}
+
+		add_homeland = cu:reindeer
+		add_homeland = cu:yak
+	}
+
+	s:STATE_FROZEN_NORTH = {
+		create_state = {
+			country = c:CRE
+			owned_provinces = { "x733084" "x7C38E3" "xAD79BD" "xBC59BA" "xF2B9FF" }
+		}
+
+		add_homeland = cu:yak
+	}
+	s:STATE_CRYSTAL_WASTES = {
+		create_state = {
+			country = c:CRE
+			owned_provinces = { "x6D486B" "x788048" "xD14EC8" "xEE95EC" }
+		}
+
+		add_homeland = cu:yak
+		add_homeland = cu:crystal_pony
+	}
+	s:STATE_CRYSTAL_CAPITAL = {
+		create_state = {
+			country = c:CRE
+			owned_provinces = { "x2D2783" "xA2E6B9" "xEAC2E9" "xF8619C" }
+		}
+
+		add_homeland = cu:crystal_pony
+	}
+
+	s:STATE_LOWER_CRYSTAL_RANGE = {
+		create_state = {
+			country = c:NEQ
+			owned_provinces = { "x685C51" "x86603A" "xBB8B5B" "xD7832A" "xDCA771" }
+		}
+
+		add_homeland = cu:earth_pony
+	}
+
+	s:STATE_WATCHTOWERS_SHADE = {
+		create_state = {
+			country = c:THR
+			owned_provinces = { "x175BD3" "x2A4562" "x3A5876" "x3F7EC1" "x5A96D7" }
+		}
+
+		add_homeland = cu:thracian
+	}
+	s:STATE_WARM_WELCOME = {
+		create_state = {
+			country = c:THR
+			owned_provinces = { "x18914D" "x252941" "x2762A1" "x344B61" "x699ED2" }
+		}
+
+		add_homeland = cu:thracian
+	}
+
+	s:ROAD_TO_GRIFFONSTONE = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x765263" "x9E8D68" "xB0256A" "xB75C8C" "xFF0083" }
+		}
+
+		add_homeland = cu:pegasus
+	}
+
+	s:DAIMONDIA = {
+		create_state = {
+			country = c:DMA
+			owned_provinces = { "x00FFFA" "x0E9D38" "x2D5066" "x6AA7CD" "x6BCDAE" }
+		}
+
+		add_homeland = cu:diamond_dog
+	}
+
+	s:STATE_LUNA_BAY = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x06440A" "x5B2CA7" "x6845A9" "x743FD5" "xA16BFF" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_GALLOPING_GORGE = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1E83EC" "x433551" "x553474" "x8454B1" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_TALL_TALES = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1D5696" "x321649" "x493A56" "x7A538D" "xD26714" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+	s:TRANS_CANTERLOT = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x406F84" "x697A94" "x7AFFFF" "xFF767A" }
+		}
+
+		add_homeland = cu:trotsilvanian
+		add_homeland = cu:pegasus
+	}
+	s:STATE_HOLLOW_PASS = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x0C0C7C" "x0C517C" "x42A399" "x437EA3" }
+		}
+
+		add_homeland = cu:unicorn
+	}
+	s:STATE_FILLYDELPIA = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x396B2A" "x5E465D" "xA25559" "xBE4A65" "xDE76D9" }
+		}
+
+		add_homeland = cu:unicorn
+		add_homeland = cu:earth_pony
+	}
+	s:STATE_MANEHATTAN = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x2D5B66" "x2D663F" "x2D6657" "x668AA4" "x810F12" }
+		}
+
+		add_homeland = cu:unicorn
+		add_homeland = cu:earth_pony
+		add_homeland = cu:pegasus
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_PONYVILLE = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1D4A5C" "x7C0C78" "xB05DD6" "xD65EAA" }
+		}
+
+		add_homeland = cu:unicorn
+		add_homeland = cu:earth_pony
+		add_homeland = cu:pegasus
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_CANTERLOT = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "xBCA1D3" "xC380FF" "xCEA8EF" "xECD5FF" }
+		}
+
+		add_homeland = cu:unicorn
+	}
+	s:STATE_EVERFREE_FOREST = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1F3216" "x2B4B1D" "x6A7864" "xC1D9B6" }
+		}
+
+		add_homeland = cu:deer
+	}
+	s:STATE_HORSESHOE_BAY = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x316530" "x82D782" "xA500FF" "xFF0008" "xFF00F2" }
+		}
+
+		add_homeland = cu:unicorn
+	}
+	s:STATE_CHEESESHORE = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1E2542" "x897B50" "xDFC577" "xFFC92A" "xFFE18E" }
+		}
+
+		add_homeland = cu:tsafaran
+	}
+	s:STATE_SOMNAMBULA = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x898D24" "xA0A84F" "xB9D344" "xEBFF12" }
+		}
+
+		add_homeland = cu:tsafaran
+	}
+	s:STATE_APPLELOSA = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x402E2F" "x78595A" "x81191E" "xA34249" "xCE969A" }
+		}
+
+		add_homeland = cu:earth_pony
+	}
+	s:STATE_HAYSEED_SWAMP = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x1EFF9C" "x22500D" "x64A646" "x82C762" "x9EC889" }
+		}
+
+		add_homeland = cu:earth_pony
+	}
+	s:STATE_PASSAGE_OF_FRIENDSHIP = {
+		create_state = {
+			country = c:EQS
+			owned_provinces = { "x00FFFF" "x3B7DBB" "x3ED6BD" "x45CB9A" "x5CC186" "x668099" "x7D97B0" }
+		}
+
+		add_homeland = cu:earth_pony
+	}
+
+	s:STATE_CRISADDLE_ISLANDS = {
+		create_state = {
+			country = c:CHR
+			owned_provinces = { "x8A8A8A" "xA0A1C7" "xD8507F" }
+		}
+		create_state = {
+			country = c:TRO
+			owned_provinces = { "x9490FF" "x95D2FF" }
+		}
+
+		add_homeland = cu:changeling
+		add_homeland = cu:trotsilvanian
+		add_homeland = cu:unicorn
+	}
+
+	s:STATE_MARAMARESESH = {
+		create_state = {
+			country = c:TRO
+			owned_provinces = { "x1B55AC" "x475A78" "x6B93A9" "x76BA79" "x9363C3" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_SEKIWI_LAND = {
+		create_state = {
+			country = c:TRO
+			owned_provinces = { "x15305D" "x395A7A" "x422BA7" "x4C56D8" "xA4D535" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+	s:STATE_BATNAT = {
+		create_state = {
+			country = c:TRO
+			owned_provinces = { "x3EBED2" "x445D84" "x97BBF1" "x9BC04D" "xAB547E" }
+		}
+
+		add_homeland = cu:trotsilvanian
+	}
+
+	s:STATE_FIRST_HIVE = {
+		create_state = {
+			country = c:CHE
+			owned_provinces = { "x1EFF9D" "x267C2C" "x58805B" "x5FC766" "xEAF9A2" }
+		}
+
+		add_homeland = cu:reformed_changeling
+		add_claim = c:CHR
+	}
+	s:STATE_SAN_PALOMINO_PLATEAU = {
+		create_state = {
+			country = c:CHE
+			owned_provinces = { "x174519" "x2B352B" "x558F57" "xBDCBF9" }
+		}
+
+		add_homeland = cu:reformed_changeling
+		add_claim = c:CHR
+	}
+	s:STATE_SECOND_HIVE = {
+		create_state = {
+			country = c:CHE
+			owned_provinces = { "x1D3A2B" "x2B4C2A" "x5E8F5D" "x7C9F7C" "xA0D6A0" }
+		}
+
+		add_homeland = cu:reformed_changeling
+		add_claim = c:CHR
+	}
+	s:STATE_THIRD_HIVE = {
+		create_state = {
+			country = c:CHE
+			owned_provinces = { "x26CF2E" "x287D2D" "x366974" "x55B45A" "x6EA071" }
+		}
+
+		add_homeland = cu:reformed_changeling
+		add_claim = c:CHR
+	}
+
+	s:STATE_ARIMASPI_TERRITORY = {
+		create_state = {
+			country = c:AMT
+			owned_provinces = { "x252525" "x363636" "xABABAB" "xD5D5D5" }
+		}
+
+		add_homeland = cu:arimaspi
+	}
+
+	s:STATE_BADLANDS = {
+		create_state = {
+			country = c:BDL
+			owned_provinces = { "x78513E" "xDA8358" "xE44F00" "xE47D00" }
+		}
+
+		add_homeland = cu:earth_pony
+	}
+
+	s:STATE_FORBIDDEN_JUNGLE = {
+		create_state = {
+			country = c:KRC
+			owned_provinces = { "x502E31" "x7E6F6F" "xBA424C" "xBE4F59" }
+		}
+
+		add_homeland = cu:farming_kirin
+	}
+	s:STATE_SEAPATH = {
+		create_state = {
+			country = c:KRC
+			owned_provinces = { "x473D6E" "x5896DA" "x636923" "x7458DA" "x9C8FCE" }
+		}
+
+		add_homeland = cu:farming_kirin
+	}
+
+	s:STATE_TENOCHTITLAN_BASIN = {
+		create_state = {
+			country = c:DOA
+			owned_provinces = { "x1F5334" "x2DC068" "x55B457" "x628570" "xA8C204" }
+		}
+
+		add_homeland = cu:ahuizotl_pony
+	}
+	s:STATE_DAZZLE_ISLANDS = {
+		create_state = {
+			country = c:DOA
+			owned_provinces = { "x13B16B" "x2048DD" "x2D3BC0" "x80F7B2" "xC8A004" }
+		}
+
+		add_homeland = cu:ahuizotl_pony
+	}
+}
