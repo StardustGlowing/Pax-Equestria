@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.txt": "plaintext",
+        "*.gui": "paradox-gui",
+        "*.mod": "paradox-mod",
+        "**/localization/**/*.yml": "paradox-loc",
+        "**/gfx/**/*.asset": "paradox-vic3"
+    },
+    "px.excludedMods": []
+}

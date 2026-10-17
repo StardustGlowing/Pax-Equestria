@@ -1,0 +1,6630 @@
+[
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 15,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\country_definitions\\00_countries.txt",
+      "length": 23,
+      "line": "    capital = STATE_EQUESTRIA_CAPITAL",
+      "linenr": 25,
+      "path": "common\\country_definitions\\00_countries.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state region STATE_EQUESTRIA_CAPITAL not defined in map_data/state_regions/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 7,
+      "line": "harmony = {",
+      "linenr": 1,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier harmony_standard_of_living_modifier_negative not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 7,
+      "line": "harmony = {",
+      "linenr": 1,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier harmony_standard_of_living_modifier_positive not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 10,
+      "line": "friendship = {",
+      "linenr": 9,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier friendship_standard_of_living_modifier_negative not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 10,
+      "line": "friendship = {",
+      "linenr": 9,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier friendship_standard_of_living_modifier_positive not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 9,
+      "line": "jollyness = {",
+      "linenr": 18,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier jollyness_standard_of_living_modifier_negative not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 9,
+      "line": "jollyness = {",
+      "linenr": 18,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier jollyness_standard_of_living_modifier_positive not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 12,
+      "line": "anti_harmony = {",
+      "linenr": 27,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier anti_harmony_standard_of_living_modifier_negative not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 12,
+      "line": "anti_harmony = {",
+      "linenr": 27,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "modifier anti_harmony_standard_of_living_modifier_positive not defined in common/static_modifiers/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\!_add_2_seas.txt",
+      "length": 15,
+      "line": "STATE_OCEAN_001 = {",
+      "linenr": 1,
+      "path": "map_data\\state_regions\\!_add_2_seas.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OCEAN_001 is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\!_add_2_seas.txt",
+      "length": 15,
+      "line": "STATE_OCEAN_002 = {",
+      "linenr": 6,
+      "path": "map_data\\state_regions\\!_add_2_seas.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OCEAN_002 is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_YAK_TOWN = {",
+      "linenr": 2,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_YAK_TOWN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_PATH_TO_THE_PONIES = {",
+      "linenr": 20,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PATH_TO_THE_PONIES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_GIFT_GIVERS_GROVE = {",
+      "linenr": 36,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GIFT_GIVERS_GROVE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_FROZEN_NORTH = {",
+      "linenr": 48,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FROZEN_NORTH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_CRYSTAL_WASTES = {",
+      "linenr": 64,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CRYSTAL_WASTES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_CRYSTAL_CAPITAL = {",
+      "linenr": 81,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CRYSTAL_CAPITAL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_OXENFORD = {",
+      "linenr": 96,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OXENFORD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_LUNA_BAY = {",
+      "linenr": 114,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LUNA_BAY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_GALLOPING_GORGE = {",
+      "linenr": 132,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALLOPING_GORGE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_LOWER_CRYSTAL_RANGE = {",
+      "linenr": 149,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LOWER_CRYSTAL_RANGE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 26,
+      "line": "STATE_ROAD_TO_GRIFFONSTONE = {",
+      "linenr": 166,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ROAD_TO_GRIFFONSTONE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_TALL_TALE = {",
+      "linenr": 184,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TALL_TALE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_TRANS_CANTERLOT = {",
+      "linenr": 202,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TRANS_CANTERLOT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_HOLLOW_PASS = {",
+      "linenr": 221,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HOLLOW_PASS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_PONYVILLE = {",
+      "linenr": 237,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PONYVILLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_CANTERLOT = {",
+      "linenr": 251,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CANTERLOT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_FILLYDELFIA = {",
+      "linenr": 265,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FILLYDELFIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_MANEHATTAN = {",
+      "linenr": 285,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MANEHATTAN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_DAIMONDIA = {",
+      "linenr": 301,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DAIMONDIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_MARAMARESESH = {",
+      "linenr": 320,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MARAMARESESH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_BATNAT = {",
+      "linenr": 338,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BATNAT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_SEKIWI_LAND = {",
+      "linenr": 355,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SEKIWI_LAND is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_CHESESHORE = {",
+      "linenr": 374,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CHESESHORE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_SOMNAMBULA = {",
+      "linenr": 392,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SOMNAMBULA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_APPLELOSA = {",
+      "linenr": 407,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_APPLELOSA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_EVERFREE_FOREST = {",
+      "linenr": 423,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_EVERFREE_FOREST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_HORSESHOE_BAY = {",
+      "linenr": 440,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HORSESHOE_BAY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 110,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_cotton_plantation\" \"building_silk_plantation\" \"building_vineyard_plantation\" }",
+      "linenr": 449,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_HAYSEED_SWAMP = {",
+      "linenr": 456,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HAYSEED_SWAMP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_FIRST_HIVE = {",
+      "linenr": 474,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FIRST_HIVE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_SECOND_HIVE = {",
+      "linenr": 492,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SECOND_HIVE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 26,
+      "line": "STATE_SAN_PALOMINO_PLATEAU = {",
+      "linenr": 508,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SAN_PALOMINO_PLATEAU is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_ARIMASPI_TERRAITORY = {",
+      "linenr": 524,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ARIMASPI_TERRAITORY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_FORBIDDEN_JUNGLE = {",
+      "linenr": 540,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FORBIDDEN_JUNGLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_BADLANDS = {",
+      "linenr": 558,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BADLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_SEAPATH = {",
+      "linenr": 576,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SEAPATH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_TENOCHTITLAN_BASIN = {",
+      "linenr": 595,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TENOCHTITLAN_BASIN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_DAZZLE_ISLAND = {",
+      "linenr": 616,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DAZZLE_ISLAND is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_THIRD_HIVE = {",
+      "linenr": 631,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THIRD_HIVE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_HAYJAZ = {",
+      "linenr": 649,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HAYJAZ is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_SADDLE_BDD = {",
+      "linenr": 668,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SADDLE_BDD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "STATE_PONIES_DRY_BONE_DESERT = {",
+      "linenr": 682,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PONIES_DRY_BONE_DESERT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_CAMPENIA = {",
+      "linenr": 696,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CAMPENIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_RIDEADH = {",
+      "linenr": 717,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_RIDEADH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_DOGS_BDD = {",
+      "linenr": 733,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DOGS_BDD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_K_TOWN_OUTSKIRTS = {",
+      "linenr": 747,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_K_TOWN_OUTSKIRTS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_K_TOWN = {",
+      "linenr": 764,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_K_TOWN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_CATS_BDD = {",
+      "linenr": 778,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CATS_BDD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_GALLOPING_GULF = {",
+      "linenr": 792,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALLOPING_GULF is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_SEA_OF_CLOUDS = {",
+      "linenr": 811,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SEA_OF_CLOUDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_BASADLECA = {",
+      "linenr": 826,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BASADLECA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 9,
+      "line": "STATE_MAU = {",
+      "linenr": 846,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MAU is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_CLOUD_COVER = {",
+      "linenr": 864,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CLOUD_COVER is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_SLUG_TROLL_SWAMP = {",
+      "linenr": 883,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SLUG_TROLL_SWAMP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_MOUNTS_SHADE = {",
+      "linenr": 903,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MOUNTS_SHADE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_LITTER_BOX_RIDGE = {",
+      "linenr": 918,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LITTER_BOX_RIDGE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_SHIRE_LANKA = {",
+      "linenr": 935,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SHIRE_LANKA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 29,
+      "line": "STATE_SLOPE_OF_DISAPPOINTMENT = {",
+      "linenr": 955,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SLOPE_OF_DISAPPOINTMENT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "STATE_DIAMOND_DOGS_DUG_DIVEN = {",
+      "linenr": 974,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DIAMOND_DOGS_DUG_DIVEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_PINE_NEDDLE_BARRENS = {",
+      "linenr": 994,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PINE_NEDDLE_BARRENS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_BLACKPORT = {",
+      "linenr": 1010,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BLACKPORT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_BASALT_BEACH = {",
+      "linenr": 1027,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BASALT_BEACH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_PANTHERA = {",
+      "linenr": 1043,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PANTHERA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_KUBANULA = {",
+      "linenr": 1062,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_KUBANULA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_UPPER_STORMLANDS = {",
+      "linenr": 1079,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_UPPER_STORMLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_LOWER_STORMLANDS = {",
+      "linenr": 1099,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LOWER_STORMLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_SEAQUESTRIA = {",
+      "linenr": 1116,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SEAQUESTRIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_MOUNT_ARIS = {",
+      "linenr": 1136,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MOUNT_ARIS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_ORNITHIA = {",
+      "linenr": 1151,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ORNITHIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_WATCHTOWERS_SHADE = {",
+      "linenr": 1171,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WATCHTOWERS_SHADE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_WARM_WELCOME = {",
+      "linenr": 1192,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WARM_WELCOME is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_VALDIVOSTABLE = {",
+      "linenr": 1208,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_VALDIVOSTABLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_FALSE_FORM_ISLANDS = {",
+      "linenr": 1225,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FALSE_FORM_ISLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_NOVPEN = {",
+      "linenr": 1242,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NOVPEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_TRANS_GRIFONICA = {",
+      "linenr": 1261,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TRANS_GRIFONICA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_TRANS_CALABIA = {",
+      "linenr": 1279,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TRANS_CALABIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_CRESTNEST = {",
+      "linenr": 1297,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CRESTNEST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_BUZSTOP = {",
+      "linenr": 1317,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BUZSTOP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_PROVISION_POST = {",
+      "linenr": 1334,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PROVISION_POST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_NEVERFROST_FOREST = {",
+      "linenr": 1351,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NEVERFROST_FOREST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_MECKLENBEAK = {",
+      "linenr": 1368,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MECKLENBEAK is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_SHADOWQUILL = {",
+      "linenr": 1385,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SHADOWQUILL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_ZAPEGARIZHIA = {",
+      "linenr": 1402,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ZAPEGARIZHIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_GALEWIND_VOLRAINIA = {",
+      "linenr": 1417,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALEWIND_VOLRAINIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_GALEASHIA = {",
+      "linenr": 1432,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALEASHIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_VINGDIMIR = {",
+      "linenr": 1448,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_VINGDIMIR is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_NOVGALOP = {",
+      "linenr": 1463,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NOVGALOP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_GRYFFISH_ISLES = {",
+      "linenr": 1480,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GRYFFISH_ISLES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 26,
+      "line": "STATE_GRIFFONSTONE_PROPPER = {",
+      "linenr": 1499,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GRIFFONSTONE_PROPPER is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_AWEGATE = {",
+      "linenr": 1518,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_AWEGATE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 26,
+      "line": "STATE_GALE_TO_GRIFFONSTONE = {",
+      "linenr": 1534,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALE_TO_GRIFFONSTONE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_HARONS_HOLIDAY = {",
+      "linenr": 1549,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HARONS_HOLIDAY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_GALE_JUNCTION = {",
+      "linenr": 1564,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GALE_JUNCTION is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 11,
+      "line": "STATE_PARIA = {",
+      "linenr": 1579,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PARIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_WURTENBIRD = {",
+      "linenr": 1595,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WURTENBIRD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_UPPER_NEST = {",
+      "linenr": 1611,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_UPPER_NEST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_LOWER_NEST = {",
+      "linenr": 1626,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LOWER_NEST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_SOAROCA = {",
+      "linenr": 1642,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SOAROCA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 11,
+      "line": "STATE_CAHEN = {",
+      "linenr": 1657,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CAHEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_HENESTIA = {",
+      "linenr": 1672,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HENESTIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_BIRDENBURG = {",
+      "linenr": 1688,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BIRDENBURG is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_ANVEANIC_COAST = {",
+      "linenr": 1706,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ANVEANIC_COAST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_GULF_OF_LOMON = {",
+      "linenr": 1723,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GULF_OF_LOMON is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_GULF_OF_MERVAN = {",
+      "linenr": 1744,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GULF_OF_MERVAN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_DOWNSTREAM = {",
+      "linenr": 1765,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DOWNSTREAM is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_BEKZEL = {",
+      "linenr": 1781,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BEKZEL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_THE_TAILFEATHERS = {",
+      "linenr": 1798,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_TAILFEATHERS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_AZOVAULT_GULF = {",
+      "linenr": 1816,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_AZOVAULT_GULF is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_MUSCORNIA = {",
+      "linenr": 1832,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MUSCORNIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_LISBRIEGH = {",
+      "linenr": 1851,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LISBRIEGH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_MILANEIGH = {",
+      "linenr": 1868,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MILANEIGH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_CALAMBRIDLE = {",
+      "linenr": 1887,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CALAMBRIDLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_LEONEIGH = {",
+      "linenr": 1903,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LEONEIGH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_ZAKARPONIA = {",
+      "linenr": 1919,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ZAKARPONIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_FAR_FEATHERED = {",
+      "linenr": 1936,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FAR_FEATHERED is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 83,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_cotton_plantation\" \"building_vineyard_plantation\" }",
+      "linenr": 1944,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_FOALEDO = {",
+      "linenr": 1953,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FOALEDO is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_CASADDLIA = {",
+      "linenr": 1972,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CASADDLIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_THESSADLELY = {",
+      "linenr": 1988,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THESSADLELY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_BYZANEIGHON = {",
+      "linenr": 2005,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BYZANEIGHON is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_ANATROTIA = {",
+      "linenr": 2023,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ANATROTIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_BRIDANY = {",
+      "linenr": 2040,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BRIDANY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 54,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_vineyard_plantation\" }",
+      "linenr": 2049,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_CHAMPEN = {",
+      "linenr": 2057,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CHAMPEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 54,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_vineyard_plantation\" }",
+      "linenr": 2065,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_POLOLAND = {",
+      "linenr": 2071,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_POLOLAND is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_WHITE_WHALING_WOLD = {",
+      "linenr": 2086,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WHITE_WHALING_WOLD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_SOFILLYA = {",
+      "linenr": 2101,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SOFILLYA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_THE_BELLCANS = {",
+      "linenr": 2115,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_BELLCANS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_APEGAS_MOUNTAINS = {",
+      "linenr": 2131,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_APEGAS_MOUNTAINS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_MANEDOVA = {",
+      "linenr": 2149,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MANEDOVA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_MONTENEIGHGRO = {",
+      "linenr": 2169,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MONTENEIGHGRO is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_MOUNTANIA = {",
+      "linenr": 2184,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MOUNTANIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_SERWINGA = {",
+      "linenr": 2205,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SERWINGA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_BIRDLAND = {",
+      "linenr": 2224,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BIRDLAND is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_GULF_OF_MANTICORE = {",
+      "linenr": 2243,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GULF_OF_MANTICORE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 83,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_cotton_plantation\" \"building_vineyard_plantation\" }",
+      "linenr": 2252,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_NORMANEDY = {",
+      "linenr": 2259,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NORMANEDY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_HALLSADDLE = {",
+      "linenr": 2275,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HALLSADDLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_LIHARNESIA = {",
+      "linenr": 2292,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LIHARNESIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_HORNVATSKA = {",
+      "linenr": 2307,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HORNVATSKA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_BELGALLOP = {",
+      "linenr": 2326,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BELGALLOP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_NEIGHTERLANDS = {",
+      "linenr": 2345,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NEIGHTERLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_THE_LAUNCHPAD = {",
+      "linenr": 2365,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_LAUNCHPAD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_RUFFLEFEATHERS = {",
+      "linenr": 2384,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_RUFFLEFEATHERS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_SHIPSLIP = {",
+      "linenr": 2403,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SHIPSLIP is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 112,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_sugar_plantation\" \"building_tobacco_plantation\" \"building_vineyard_plantation\" }",
+      "linenr": 2412,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 27,
+      "line": "STATE_THE_WALLS_AND_BRIDGES = {",
+      "linenr": 2420,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_WALLS_AND_BRIDGES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 81,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_silk_plantation\" \"building_vineyard_plantation\" \"building_tobacco_plantation\" }",
+      "linenr": 2429,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 27,
+      "line": "STATE_BY_THE_TRINKET_TAKERS = {",
+      "linenr": 2436,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BY_THE_TRINKET_TAKERS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 81,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_silk_plantation\" \"building_vineyard_plantation\" \"building_tobacco_plantation\" \"building_sugar_plantation\" }",
+      "linenr": 2445,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_CEASEFIRE_ISLES = {",
+      "linenr": 2454,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CEASEFIRE_ISLES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 81,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_silk_plantation\" \"building_vineyard_plantation\" \"building_tobacco_plantation\" }",
+      "linenr": 2463,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_THE_KELNS = {",
+      "linenr": 2470,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_KELNS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 54,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_vineyard_plantation\" \"building_tobacco_plantation\" }",
+      "linenr": 2479,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_SULFUR_SINKHOLE = {",
+      "linenr": 2488,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SULFUR_SINKHOLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_INNER_DRAGONLANDS = {",
+      "linenr": 2505,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_INNER_DRAGONLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_DRAGONS_WOOD = {",
+      "linenr": 2525,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DRAGONS_WOOD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_DRAGONS_COAL = {",
+      "linenr": 2542,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DRAGONS_COAL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_DRAGONS_FARM = {",
+      "linenr": 2560,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DRAGONS_FARM is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_PIKED_BAY = {",
+      "linenr": 2574,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PIKED_BAY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_BY_THE_CARMAKERS = {",
+      "linenr": 2591,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BY_THE_CARMAKERS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_CAPE_COMMET = {",
+      "linenr": 2609,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CAPE_COMMET is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_DRAGONS_IRON = {",
+      "linenr": 2628,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DRAGONS_IRON is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_UP_IDONIX = {",
+      "linenr": 2643,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_UP_IDONIX is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 27,
+      "line": "STATE_LITTLE_DRAGONS_SCHOOL = {",
+      "linenr": 2659,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LITTLE_DRAGONS_SCHOOL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_FALSEM = {",
+      "linenr": 2674,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FALSEM is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_MIDDLE_SANCTUARY = {",
+      "linenr": 2693,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MIDDLE_SANCTUARY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_PRISM_PALISADES = {",
+      "linenr": 2713,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PRISM_PALISADES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_DOWN_IDONIX = {",
+      "linenr": 2732,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DOWN_IDONIX is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_MERLAN = {",
+      "linenr": 2747,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MERLAN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_MONOVEN = {",
+      "linenr": 2766,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MONOVEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_LITTLE_LAUNCHPAD = {",
+      "linenr": 2786,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_LITTLE_LAUNCHPAD is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_PLAINS_OF_SANCTUARY = {",
+      "linenr": 2804,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PLAINS_OF_SANCTUARY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 54,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_vineyard_plantation\" \"building_tobacco_plantation\" \"building_cotton_plantation\" }",
+      "linenr": 2813,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 29,
+      "line": "STATE_EAST_PLAIN_OF_SANCTUARY = {",
+      "linenr": 2823,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_EAST_PLAIN_OF_SANCTUARY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_MOUNTS_OF_MAYHEM = {",
+      "linenr": 2842,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MOUNTS_OF_MAYHEM is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 21,
+      "line": "STATE_WINDBIRTH_COAST = {",
+      "linenr": 2859,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WINDBIRTH_COAST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "STATE_THE_POST_PROTECTORATES = {",
+      "linenr": 2878,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_POST_PROTECTORATES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_KOMTAL = {",
+      "linenr": 2896,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_KOMTAL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 11,
+      "line": "STATE_BAKIN = {",
+      "linenr": 2914,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BAKIN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_START_LINE_ISLANDS = {",
+      "linenr": 2932,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_START_LINE_ISLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_FINISH_LINE_ISLANDS = {",
+      "linenr": 2951,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FINISH_LINE_ISLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_FERKINA_PLAINS = {",
+      "linenr": 2971,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FERKINA_PLAINS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_TYULENEIGHY = {",
+      "linenr": 2989,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TYULENEIGHY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_OKIRJA_ADNIA = {",
+      "linenr": 3007,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OKIRJA_ADNIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_DIAHMANED = {",
+      "linenr": 3025,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DIAHMANED is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_ASCALEA = {",
+      "linenr": 3043,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ASCALEA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_YARKUTIA = {",
+      "linenr": 3062,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_YARKUTIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_THE_FLUF_FACILITIES = {",
+      "linenr": 3080,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_FLUF_FACILITIES is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_KRASNUGGLE = {",
+      "linenr": 3099,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_KRASNUGGLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 23,
+      "line": "STATE_CRISADDLE_ISLANDS = {",
+      "linenr": 3116,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CRISADDLE_ISLANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_MAROTH = {",
+      "linenr": 3133,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MAROTH is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 25,
+      "line": "STATE_FRIGHTENED_FRONTIER = {",
+      "linenr": 3150,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FRIGHTENED_FRONTIER is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_PERISHED_PLATEAU = {",
+      "linenr": 3169,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_PERISHED_PLATEAU is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_BAS_THO = {",
+      "linenr": 3185,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BAS_THO is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_STOPPED_STEPPE = {",
+      "linenr": 3203,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_STOPPED_STEPPE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 24,
+      "line": "STATE_WEEPING_WATERFRONT = {",
+      "linenr": 3218,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_WEEPING_WATERFRONT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_DAR_ES_ZEBRAAM = {",
+      "linenr": 3235,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DAR_ES_ZEBRAAM is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_OUTER_KELPIA = {",
+      "linenr": 3253,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OUTER_KELPIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_KELPIA = {",
+      "linenr": 3271,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_KELPIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_STRIHILI_COAST = {",
+      "linenr": 3287,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_STRIHILI_COAST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_FARASI_COAST = {",
+      "linenr": 3307,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FARASI_COAST is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_ZOCOTRI = {",
+      "linenr": 3326,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ZOCOTRI is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_OSTALION = {",
+      "linenr": 3344,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OSTALION is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_STRIPOLI = {",
+      "linenr": 3362,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_STRIPOLI is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_TUNISTRIA = {",
+      "linenr": 3378,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TUNISTRIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_FILYZZAN = {",
+      "linenr": 3396,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_FILYZZAN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_YEMANE = {",
+      "linenr": 3412,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_YEMANE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_HORSEMUZ = {",
+      "linenr": 3430,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_HORSEMUZ is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 22,
+      "line": "STATE_THE_SEA_OF_SANDS = {",
+      "linenr": 3447,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_SEA_OF_SANDS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_THE_NILON = {",
+      "linenr": 3462,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_NILON is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 11,
+      "line": "STATE_MAZEB = {",
+      "linenr": 3479,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MAZEB is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_ENNEIGHDI = {",
+      "linenr": 3497,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ENNEIGHDI is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_CASAZBRANCA = {",
+      "linenr": 3512,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CASAZBRANCA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_TIBESTABLE = {",
+      "linenr": 3529,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_TIBESTABLE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_NOUZASKCHOTT = {",
+      "linenr": 3543,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NOUZASKCHOTT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_GLOWSTILL = {",
+      "linenr": 3561,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GLOWSTILL is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_DASTVEN = {",
+      "linenr": 3580,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_DASTVEN is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 12,
+      "line": "STATE_MANELE = {",
+      "linenr": 3599,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MANELE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_ANJUANEIG = {",
+      "linenr": 3615,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_ANJUANEIG is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 16,
+      "line": "STATE_THE_CANILE = {",
+      "linenr": 3634,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_CANILE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_MAREDAGASCAR = {",
+      "linenr": 3648,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_MAREDAGASCAR is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 29,
+      "line": "STATE_GREATER_CAPE_OF_NO_HOPE = {",
+      "linenr": 3668,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GREATER_CAPE_OF_NO_HOPE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 17,
+      "line": "STATE_THE_MORTARS = {",
+      "linenr": 3685,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_MORTARS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_NEW_ENTRANCE = {",
+      "linenr": 3702,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NEW_ENTRANCE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_OLD_ZEBRABWE = {",
+      "linenr": 3719,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OLD_ZEBRABWE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 18,
+      "line": "STATE_NEW_ZEBRABWE = {",
+      "linenr": 3735,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_NEW_ZEBRABWE is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 26,
+      "line": "STATE_THE_STRIPED_SHATTERS = {",
+      "linenr": 3751,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_STRIPED_SHATTERS is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 19,
+      "line": "STATE_THE_MARELACCA = {",
+      "linenr": 3768,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_THE_MARELACCA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_JAVAULT = {",
+      "linenr": 3785,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_JAVAULT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_BORNEIGHO = {",
+      "linenr": 3801,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_BORNEIGHO is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 15,
+      "line": "STATE_SADDLWESI = {",
+      "linenr": 3819,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SADDLWESI is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_GONDRAFT = {",
+      "linenr": 3839,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_GONDRAFT is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 13,
+      "line": "STATE_OREINIA = {",
+      "linenr": 3855,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_OREINIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_CROWNED_VALLEY = {",
+      "linenr": 3871,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_CROWNED_VALLEY is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "missing-item",
+  "locations": [
+    {
+      "column": 137,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 28,
+      "line": "    arable_resources = { \"building_livestock_ranch\" \"building_tea_plantation\" \"building_coffee_plantation\" \"building_sugar_plantation\" \"building_vineyard_plantation\" \"building_dye_plantation\" \"building_banana_plantation\" }",
+      "linenr": 3878,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "building type building_vineyard_plantation not defined in common/buildings/",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 14,
+      "line": "STATE_SOMERLIA = {",
+      "linenr": 3885,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_SOMERLIA is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_UNKNOWN_LAND_1 = {",
+      "linenr": 3905,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_UNKNOWN_LAND_1 is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "strong",
+  "info": null,
+  "key": "validation",
+  "locations": [
+    {
+      "column": 1,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\state_regions\\00_states.txt",
+      "length": 20,
+      "line": "STATE_UNKNOWN_LAND_2 = {",
+      "linenr": 3910,
+      "path": "map_data\\state_regions\\00_states.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "state STATE_UNKNOWN_LAND_2 is not part of any strategic region",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_ai.txt",
+      "length": 37,
+      "line": "\tDISBAND_EXCESS_SUPPLY_SHIPS_MIN_RATIO = 2.0\t\t\t\t\t\t# AI only decommissions available supply ships when they exceed this ratio of wanted, then goes down to wanted",
+      "linenr": 573,
+      "path": "common\\defines\\00_ai.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NAI|DISBAND_EXCESS_SUPPLY_SHIPS_MIN_RATIO",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_ai.txt",
+      "length": 37,
+      "line": "\tDISBAND_EXCESS_SUPPLY_SHIPS_MAX_COUNT = 10\t\t\t\t\t\t# Maximum number of excess supply ships the AI will decommission per update",
+      "linenr": 574,
+      "path": "common\\defines\\00_ai.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NAI|DISBAND_EXCESS_SUPPLY_SHIPS_MAX_COUNT",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_ai.txt",
+      "length": 53,
+      "line": "\tMONEY_SPENDING_MIN_SURPLUS_RELATIVE_INCOME_CONVERSION = 5000 # For the above MIN_SURPLUS_TO_ADD values, for each this amount of absolute money, the AI can also pass the check by having at least a 100% relative surplus. IE, if this is set to 4000 and MONEY_SPENDING_MIN_SURPLUS_TO_ADD_SHOULD_HAVE is set to 2000, then the AI will be fine with either a 2000 absolute surplus or a 50% relative surplus.",
+      "linenr": 713,
+      "path": "common\\defines\\00_ai.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NAI|MONEY_SPENDING_MIN_SURPLUS_RELATIVE_INCOME_CONVERSION",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_ai.txt",
+      "length": 53,
+      "line": "\tMONEY_SPENDING_CANAL_MIN_CONSTRUCTION_FOR_SHOULD_HAVE = 100 # If construction output is less than this, AI will have lower priority to construct canals",
+      "linenr": 749,
+      "path": "common\\defines\\00_ai.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NAI|MONEY_SPENDING_CANAL_MIN_CONSTRUCTION_FOR_SHOULD_HAVE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_ai.txt",
+      "length": 55,
+      "line": "\tAI_PEACE_AGREEMENT_WHITE_PEACE_WAR_DURATION_START_MONTH = 12 # Amount of months before increased peace acceptance from war duration kicks in",
+      "linenr": 1017,
+      "path": "common\\defines\\00_ai.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NAI|AI_PEACE_AGREEMENT_WHITE_PEACE_WAR_DURATION_START_MONTH",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 30,
+      "line": "\tLAW_ENACTMENT_MIN_SPEED_FACTOR = 0.1\t# Minimum value of (1 + enactment_speed), preventing extreme slowdowns [>0]",
+      "linenr": 169,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NPolitics|LAW_ENACTMENT_MIN_SPEED_FACTOR",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 52,
+      "line": "\tTRADE_CENTER_PRESTIGE_MERCHANT_MARINE_ADVANTAGE_MULT = 0.25\t\t\t\t# Trade Centers gain this multiplier on trade advantage when 100% of their merchant marine input is prestige goods",
+      "linenr": 462,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NEconomy|TRADE_CENTER_PRESTIGE_MERCHANT_MARINE_ADVANTAGE_MULT",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 25,
+      "line": "\tFORMATIONS_MERGE_DISTANCE = 1\t\t\t\t\t\t# Formations can be merged instantly within this distance",
+      "linenr": 812,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NMilitary|FORMATIONS_MERGE_DISTANCE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 48,
+      "line": "\tMILITARY_FORMATION_SHORTAGE_BATTALION_ORG_WEIGHT = 0.25\t\t\t\t\t\t# Organization-target weight of a battalion whose required goods are fully in shortage (1 = no penalty); interpolated by the battalion's goods shortage severity",
+      "linenr": 828,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NMilitary|MILITARY_FORMATION_SHORTAGE_BATTALION_ORG_WEIGHT",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 31,
+      "line": "\tBLOCKADE_SEA_PRESENCE_THRESHOLD = 0.5\t\t\t\t\t\t# At what level of sea presence is the blockade effective",
+      "linenr": 864,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NMilitary|BLOCKADE_SEA_PRESENCE_THRESHOLD",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 37,
+      "line": "\tDESTROYED_SHIP_LIVING_CREW_PERCENTAGE = 0\t\t\t\t\t# If a ship has this percentage of living crew or less, it is destroyed while not in port",
+      "linenr": 880,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NMilitary|DESTROYED_SHIP_LIVING_CREW_PERCENTAGE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 38,
+      "line": "\tMINIMUM_SHIP_CREW_PERCENTAGE_TO_DEPLOY = 0.1\t\t\t\t# A fleet cannot be deployed while any of its ships has less than this percentage of living crew, and at-sea fleets with such ships are sent home to re-crew",
+      "linenr": 881,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NMilitary|MINIMUM_SHIP_CREW_PERCENTAGE_TO_DEPLOY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 41,
+      "line": "\tTREATY_ARTICLE_STRAIT_ACCESS_ARTICLE_TYPE = \"strait_access\"",
+      "linenr": 1332,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NDiplomacy|TREATY_ARTICLE_STRAIT_ACCESS_ARTICLE_TYPE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 42,
+      "line": "\tTREATY_ARTICLE_TOLL_EXEMPTION_ARTICLE_TYPE = \"toll_exemption\"",
+      "linenr": 1333,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NDiplomacy|TREATY_ARTICLE_TOLL_EXEMPTION_ARTICLE_TYPE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 36,
+      "line": "\tTREATY_ARTICLE_NO_TOLLS_ARTICLE_TYPE = \"no_tolls\"",
+      "linenr": 1334,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NDiplomacy|TREATY_ARTICLE_NO_TOLLS_ARTICLE_TYPE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 45,
+      "line": "\tTREATY_ARTICLE_NO_STRAIT_CLOSURE_ARTICLE_TYPE = \"no_strait_closure\"",
+      "linenr": 1335,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NDiplomacy|TREATY_ARTICLE_NO_STRAIT_CLOSURE_ARTICLE_TYPE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 33,
+      "line": "\tNAVAL_BATTLE_CRIT_ARMOR_REDUCTION = 1.0\t\t\t\t\t# How much armor is reduced percentually on a crit. 1 = ignores armor completely, 0 = armor is factored in as usual",
+      "linenr": 2027,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NBattle|NAVAL_BATTLE_CRIT_ARMOR_REDUCTION",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 34,
+      "line": "\tSTATE_PARTIAL_OCCUPATION_THRESHOLD = 0.5 # If a state is at least this % partially occupied, it's considered occupied for purposes of contesting wargoals",
+      "linenr": 2077,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NWar|STATE_PARTIAL_OCCUPATION_THRESHOLD",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 25,
+      "line": "\tOCCUPATION_PROGRESS_DECAY = 0.7\t\t\t# Monthly decay factor for occupation progress accumulators",
+      "linenr": 2078,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NWar|OCCUPATION_PROGRESS_DECAY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 40,
+      "line": "\tOCCUPATION_PROGRESS_DECAY_ZERO_THRESHOLD = 0.1\t# Occupation progress below this value is set to zero",
+      "linenr": 2079,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NWar|OCCUPATION_PROGRESS_DECAY_ZERO_THRESHOLD",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 23,
+      "line": "\tFRONT_ADVANCEMENT_RATIO = 1.1 # One side on a front must have this ratio of occupation gain to the other to be considered to be advancing at all",
+      "linenr": 2080,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NWar|FRONT_ADVANCEMENT_RATIO",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 32,
+      "line": "\tFRONT_DECISIVE_ADVANCEMENT_RATIO = 1.5 # One side on a front must have this ratio of occupation gain to the other to be considered decisively advancing",
+      "linenr": 2081,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NWar|FRONT_DECISIVE_ADVANCEMENT_RATIO",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 32,
+      "line": "\tTEXT_MATCHING_SCORE_PREFIX_MATCH = 1.0\t\t\t\t# When the searched text is a prefix of the target text",
+      "linenr": 2133,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NText|TEXT_MATCHING_SCORE_PREFIX_MATCH",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 40,
+      "line": "\tTEXT_MATCHING_SCORE_MAX_NON_PREFIX_MATCH = 0.99\t\t# The maximum score a non-full match can get. Including a substring non-prefix match",
+      "linenr": 2134,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NText|TEXT_MATCHING_SCORE_MAX_NON_PREFIX_MATCH",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_defines.txt",
+      "length": 38,
+      "line": "\tTEXT_MATCHING_SCORE_MIN_MATCHING_SCORE = 0.1\t\t# The lowest score a match can get while fulfilling the max edit distance requirement",
+      "linenr": 2135,
+      "path": "common\\defines\\00_defines.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NText|TEXT_MATCHING_SCORE_MIN_MATCHING_SCORE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_graphics.txt",
+      "length": 25,
+      "line": "\tFLAGSHIP_ORNAMENT_LOCATOR = \"loc_figurehead\"\t\t# Name of the locator on the ship entity where the flagship ornament is attached",
+      "linenr": 709,
+      "path": "common\\defines\\00_graphics.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NNavy|FLAGSHIP_ORNAMENT_LOCATOR",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_graphics.txt",
+      "length": 27,
+      "line": "\tFLAGSHIP_DECORATION_LOCATOR = \"root\"\t\t\t\t# Name of the locator on the ship entity where the flagship signal flags is attached",
+      "linenr": 710,
+      "path": "common\\defines\\00_graphics.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NNavy|FLAGSHIP_DECORATION_LOCATOR",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_graphics.txt",
+      "length": 27,
+      "line": "\tPORT_BOMBARDMENT_VFX_ENTITY = \"vfx_port_bombardment_impact\"\t\t\t# Entity that is spawned on ports that are being bombarded from the sea, used for both visual and sound effects",
+      "linenr": 712,
+      "path": "common\\defines\\00_graphics.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NNavy|PORT_BOMBARDMENT_VFX_ENTITY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_graphics.txt",
+      "length": 40,
+      "line": "\tPORT_BOMBARDMENT_VFX_ENTITY_IMPACT_STATE = \"impact\"\t\t\t\t\t# Animation state name for the port bombardment VFX entity when the bombardment hits the port",
+      "linenr": 713,
+      "path": "common\\defines\\00_graphics.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NNavy|PORT_BOMBARDMENT_VFX_ENTITY_IMPACT_STATE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_graphics.txt",
+      "length": 46,
+      "line": "\tPORT_BOMBARDMENT_VFX_ENTITY_IMPACT_STATE_HEAVY = \"impact_heavy\"\t\t# Animation state name for the port bombardment VFX entity when the bombardment hits the port with heavy impact",
+      "linenr": 714,
+      "path": "common\\defines\\00_graphics.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NNavy|PORT_BOMBARDMENT_VFX_ENTITY_IMPACT_STATE_HEAVY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 38,
+      "line": "\tNAVAL_MISSION_HIGHLIGHT_FRIENDLY_COLOR = { 0.47 0.88 1.0 1 }\t# Blue - highlight for sea regions where friendly fleets are on a naval mission (matches the round_highlight_blue marker highlight)",
+      "linenr": 83,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|NAVAL_MISSION_HIGHLIGHT_FRIENDLY_COLOR",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 35,
+      "line": "\tNAVAL_MISSION_HIGHLIGHT_ENEMY_COLOR = { 1.0 0.30 0.30 1 }\t\t# Red - highlight for sea regions where enemy fleets are on a naval mission",
+      "linenr": 84,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|NAVAL_MISSION_HIGHLIGHT_ENEMY_COLOR",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 20,
+      "line": "\tTECH_TREE_CLOSE_ZOOM = 0.6",
+      "linenr": 132,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_CLOSE_ZOOM",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 28,
+      "line": "\tTECH_TREE_GO_TO_FOCUS_OFFSET = { 0 -50 } # Nudges the go-to-tech centering so the tech lands centered.",
+      "linenr": 133,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_GO_TO_FOCUS_OFFSET",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 31,
+      "line": "\tDEFAULT_SEAL_AND_SIGNATURE_PATH = \"gfx/interface/diplomatic_treaties/seal_and_signature_cultures/diplomatic_treaties_seal_and_signature_default.dds\"",
+      "linenr": 297,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|DEFAULT_SEAL_AND_SIGNATURE_PATH",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 30,
+      "line": "\tMIN_SEARCH_RESULT_QUERY_LENGTH = 1 # Minimum number of characters required for a search result to be shown",
+      "linenr": 301,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_RESULT_QUERY_LENGTH",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 33,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_HIGHLIGHT = 3 # Minimum number of characters required for a search query to highlight results (if applicable)",
+      "linenr": 302,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_HIGHLIGHT",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 29,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY = 4 # Minimum query length for fuzzy (edit-distance) matching; shorter queries match exactly only (prefix/substring), no typo tolerance",
+      "linenr": 303,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 43,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY_NATIONAL_CAST = 6 # For character, which generally have long names or words attached to them, we require a longer query before applying fuzzy matching, to avoid too many irrelevant results",
+      "linenr": 304,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY_NATIONAL_CAST",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 39,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY_COMPANIES = 6 # For companies, which generally have long names or words attached to them, we require a longer query before applying fuzzy matching, to avoid too many irrelevant results",
+      "linenr": 305,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY_COMPANIES",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 34,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY_POPS = 6 # For pops there are very many entries with short, similar field words, so we require a longer query before applying fuzzy matching, to avoid too many irrelevant results",
+      "linenr": 306,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY_POPS",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 39,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY_COUNTRIES = 6",
+      "linenr": 307,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY_COUNTRIES",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 34,
+      "line": "\tMIN_SEARCH_QUERY_LENGTH_FUZZY_LAWS = 6",
+      "linenr": 308,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MIN_SEARCH_QUERY_LENGTH_FUZZY_LAWS",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 24,
+      "line": "\tMAX_SEARCH_EDIT_DISTANCE = -1 # Maximum edit distance for fuzzy search results. -1 makes it use a default dynamic value based on the length of the query.",
+      "linenr": 309,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MAX_SEARCH_EDIT_DISTANCE",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 28,
+      "line": "\tMATCH_CLOSENESS_SCORE_WEIGHT = 10 \t\t\t\t\t\t\t# How much the closeness of the match (0..1) should weigh on the final relevance score of a search result",
+      "linenr": 311,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|MATCH_CLOSENESS_SCORE_WEIGHT",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 42,
+      "line": "\tTECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_NAME = 5\t\t        # Score addded for matches within this category",
+      "linenr": 312,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_NAME",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 46,
+      "line": "\tTECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_MODIFIER = 3",
+      "linenr": 313,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_MODIFIER",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 51,
+      "line": "\tTECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_ON_RESEARCHED = 2",
+      "linenr": 314,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_ON_RESEARCHED",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 44,
+      "line": "\tTECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_UNLOCK = 1",
+      "linenr": 315,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|TECH_TREE_SEARCH_MATCH_CATEGORY_SCORE_UNLOCK",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 36,
+      "line": "\tLAW_SEARCH_MATCH_CATEGORY_SCORE_NAME = 5\t\t\t# Score added for a law-search match on the law name (ranks above all other fields)",
+      "linenr": 316,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|LAW_SEARCH_MATCH_CATEGORY_SCORE_NAME",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "unknown-field",
+  "locations": [
+    {
+      "column": 2,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\defines\\00_interfaces.txt",
+      "length": 41,
+      "line": "\tLAW_SEARCH_MATCH_CATEGORY_SCORE_SECONDARY = 1\t\t# Score added for a law-search match on any non-name field (modifiers, effects, requirements, endorsing IGs, group)",
+      "linenr": 317,
+      "path": "common\\defines\\00_interfaces.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "unknown define NGUI|LAW_SEARCH_MATCH_CATEGORY_SCORE_SECONDARY",
+  "severity": "error",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "encoding",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\country_definitions\\00_countries.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\country_definitions\\00_countries.txt",
+      "stage": null,
+      "tag": null
+    },
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\cultures\\00_cultures.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\cultures\\00_cultures.txt",
+      "stage": null,
+      "tag": null
+    },
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\discrimination_trait_groups\\00_cultural_heritage_groups.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\discrimination_trait_groups\\00_cultural_heritage_groups.txt",
+      "stage": null,
+      "tag": null
+    },
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\discrimination_traits\\00_cultural_heritages.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\discrimination_traits\\00_cultural_heritages.txt",
+      "stage": null,
+      "tag": null
+    },
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\discrimination_traits\\01_languages.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\discrimination_traits\\01_languages.txt",
+      "stage": null,
+      "tag": null
+    },
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": null,
+      "line": null,
+      "linenr": null,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "Expected UTF-8 BOM encoding",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "missing-file",
+  "locations": [
+    {
+      "column": 13,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 47,
+      "line": "    icon = \"gfx/interface/icons/religion_icons/buddhism.dds\"\t#image file",
+      "linenr": 10,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "file gfx/interface/icons/religion_icons/buddhism.dds does not exist",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "missing-file",
+  "locations": [
+    {
+      "column": 13,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 46,
+      "line": "    icon = \"gfx/interface/icons/religion_icons/judaism.dds\"\t#image file",
+      "linenr": 19,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "file gfx/interface/icons/religion_icons/judaism.dds does not exist",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "missing-file",
+  "locations": [
+    {
+      "column": 13,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\common\\religions\\religion.txt",
+      "length": 51,
+      "line": "    icon = \"gfx/interface/icons/religion_icons/christianity.dds\"\t#image file",
+      "linenr": 28,
+      "path": "common\\religions\\religion.txt",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "file gfx/interface/icons/religion_icons/christianity.dds does not exist",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(1887, 791) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(1888, 790) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(3497, 585) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(3498, 586) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(6881, 1991) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(6882, 1990) river pixel has 3 neighbors",
+  "severity": "warning",
+  "wiki": null
+},
+{
+  "confidence": "reasonable",
+  "info": null,
+  "key": "rivers",
+  "locations": [
+    {
+      "column": null,
+      "from": "MOD",
+      "fullpath": "c:\\Users\\admin\\Documents\\Paradox Interactive\\Victoria 3\\mod\\PonyMod\\map_data\\rivers.png",
+      "length": 1,
+      "line": null,
+      "linenr": null,
+      "path": "map_data\\rivers.png",
+      "stage": null,
+      "tag": null
+    }
+  ],
+  "message": "(8075, 1557) river source (green) not at source of a river",
+  "severity": "warning",
+  "wiki": null
+}
+]
