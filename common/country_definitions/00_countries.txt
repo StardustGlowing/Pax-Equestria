@@ -1,4 +1,4 @@
-YAK = { #Yakistan
+﻿YAK = { #Yakistan
     color = { 255 140 148 }
 
     country_type = recognized
