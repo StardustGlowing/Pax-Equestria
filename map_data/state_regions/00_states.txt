@@ -1470,7 +1470,7 @@ STATE_GALEWIND_VOLRAINIA = {
     }
 }
 
-STATE_GALEASHIA = {
+STATE_GALESHIA = {
     id = 82
     provinces = { "x1191D7" "x1F5F7F" "x325363" "x4399C7" "xC46D9E" }
     city = "xC46D9E"
