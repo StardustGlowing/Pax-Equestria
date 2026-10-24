@@ -630,8 +630,7 @@ STATES = {
 
 		add_homeland = cu:ornithian
 	}
-
-
+#############################################################################################################################################################
 	s:STATE_VLADIVOSTABLE = {
 		create_state = {
 			country = c:MRT
@@ -1247,5 +1246,395 @@ STATES = {
 		}
 
 		add_homeland = cu:tbt
+	}
+
+
+	################################################################################################################################################################
+	
+	
+	s:STATE_THE_LAUNCHPAD = {
+		create_state = {
+			country = c:ODG
+			owned_provinces = { "x16DD1D" "x32AD40" "x34FF4F" "x7CC584" "x94E89D" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_RUFFLEFEATHERS = {
+		create_state = {
+			country = c:BOD
+			owned_provinces = { "xAD3165" "xC713A7" "xD395AD" "xF478BA" "xFF3488" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_SHIPSLIP = {
+		create_state = {
+			country = c:MRS
+			owned_provinces = { "x990A00" "xC8A849" "xCAAD62" "xDB2C15" "xE7A471" "xFB715F" "xFFD75F" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_THE_WALLS_AND_BRIDGES = {
+		create_state = {
+			country = c:SNL
+			owned_provinces = { "x6C1212" "x9ECBA4" "xB02929" "xD4D8FB" "xFF8A8A" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_BY_THE_TRINKET_TAKERS = {
+		create_state = {
+			country = c:SNL
+			owned_provinces = { "x956A67" "xE5B122" "xFFCD39" "xFFD86E" "xFFEDBD" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_CEASEFIRE_ISLANDS = {
+		create_state = {
+			country = c:SNL
+			owned_provinces = { "x914411" "x972D28" "xE35C58" "xEE7575" "xFD2B43" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_SULFUR_SINKHOLE = {
+		create_state = {
+			country = c:TOD
+			owned_provinces = { "x3344D9" "x3D50D1" "x45A256" "x4955AC" "x5560D6" "x5C3440" }
+		}
+		
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_INNER_DRAGONLANDS = {
+		create_state = {
+			country = c:TOD #### place holder
+			owned_provinces = { "x1CAD11" "x6435B5" "x7934B5" "x8454D6" "x8F33FF" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_DRAGONS_WOOD = {
+		create_state = {
+			country = c:DNS
+			owned_provinces = { "x0753A7" "x640E2D" "x88264D" "xB43E67" "xF0427C" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_DRAGONS_COAL = {
+		create_state = {
+			country = c:DNS
+			owned_provinces = { "x8D17FD" "xB57EB7" "xB757BC" "xBE45C2" "xFA00FF" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_DRAGONS_FARM = {
+		create_state = {
+			country = c:DRK
+			owned_provinces = { "xA79450" "xAA8A15" "xB99A29" "xECA055" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_DRAGONS_IRON = {
+		create_state = {
+			country = c:TDM
+			owned_provinces = { "x3A3F5B" "x606AA9" "x666A86" "x747998" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_BY_THE_CARMAKERS = {
+		create_state = {
+			country = c:AZV
+			owned_provinces = { "x3F25E9" "x8E80FF" "x978AE9" "x9C94D1" "xEBFA4B" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_CAPE_COMMET = {
+		create_state = {
+			country = c:AZV
+			owned_provinces = { "x25DCEC" "x3A55EE" "x4E5CC3" "x5868CB" "x93A0F5" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_MIDDLE_SANCTUARY = {
+		create_state = {
+			country = c:EMR
+			owned_provinces = { "x8E243F" "xB13351" "xDD6B86" "xDE8CC9" "xDF5275" }
+		}
+
+		add_homeland = cu:imperial_pony
+	}
+
+	s:STATE_PRISM_PALISADES = {
+		create_state = {
+			country = c:RBS
+			owned_provinces = { "x5451FA" "x55FEE0" "x5C2084" "x5D4C6A" "xB863F8" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+	s:STATE_LITTLE_LAUNCHPAD = {
+		create_state = {
+			country = c:RBS
+			owned_provinces = { "x0ADC83" "x4F44D2" "x7B479E" "x8E5FAE" "x9139BA" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+
+	s:STATE_UP_IDONIX = {
+		create_state = {
+			country = c:IDN
+			owned_provinces = { "x399EBA" "x4ACBD1" "x52798B" "x78F8FF" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+	s:STATE_DOWN_IDONIX = {
+		create_state = {
+			country = c:IDN
+			owned_provinces = { "x22DDEA" "x288285" "x7BD5D9" "x7FD0D2" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+
+	s:STATE_THE_KELNS = {
+		create_state = {
+			country = c:ESO
+			owned_provinces = { "x591927" "x903465" "x905734" "x9A63BF" "xBC629C" "xC49F66" "xC5734E" "xE9B567" }
+		}
+		
+		add_homeland = cu:great_dragon
+	}
+	s:STATE_PIKED_BAY = {
+		create_state = {
+			country = c:ESO
+			owned_provinces = { "x5C303A" "x9A5262" "xBF4C65" "xC5697D" "xFA13F2" }
+		}
+
+		add_homeland = cu:great_dragon
+	}
+	
+	s:STATE_FALSEM = {
+		create_state = {
+			country = c:ESO
+			owned_provinces = { "xD25B28" "xBC3A35" "xBC5E36" }
+		}
+		create_state = {
+			country = c:MRK
+			owned_provinces = { "xC64CFF" "x7911EA" "xA511EA" }
+		}
+
+		add_homeland = cu:little_dragon
+		add_homeland = cu:great_dragon
+	}
+
+	s:STATE_MERLAN = {
+		create_state = {
+			country = c:ESO
+			owned_provinces = { "xEA7A11" }
+		}
+		create_state = {
+			country = c:MRK
+			owned_provinces = { "xD396F1" "xD711EA" "xF5607D" "xF560C8" "xF5A660" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+
+	s:STATE_LITTLE_DRAGONS_SCHOOL = {
+		create_state = {
+			country = c:MRK
+			owned_provinces = { "x376EB0" "x3F8AE5" "x436B99" "x81B1E9" }
+		}
+
+		add_homeland = cu:little_dragon
+	}
+#######################################################################################################################################################################
+	s:STATE_MONOVEN = {
+		create_state = {
+			country = c:TRV
+			owned_provinces = { "x5A7075" "x663428" "xD89F50" "xE9C391" "xFAC980" }
+		}
+
+		add_homeland = cu:frequent_kirin
+	}
+	s:STATE_THE_POST_PROTECTORATES = {
+		create_state = {
+			country = c:TRV
+			owned_provinces = { "x064939" "x21780B" "x68FEA3" "x901CEF" "xA74C11" "xB3643D" "xB98064" "xFA374F" "xFF5900" "xFFE1D4" }
+		}
+
+		add_homeland = cu:frequent_kirin
+		add_homeland = cu:farming_kirin
+	}
+	s:STATE_FERKINA_PLAINS = {
+		create_state = {
+			country = c:TRV
+			owned_provinces = { "x7CD7B2" "xC3822E" "xEBA550" "xFFBA5F" "xFFE0BA" }
+		}
+
+		add_homeland = cu:farming_kirin
+	}
+	s:STATE_TYULENEIGHY = {
+		create_state = {
+			country = c:TRV
+			owned_provinces = { "x73918D" "xAD9E54" "xE9D556" "xEFDA65" "xF1E9BB" }
+		}
+
+		add_homeland = cu:farming_kirin
+		add_homeland = cu:frequent_kirin
+	}
+	s:STATE_OKIRJA_ADNIA = {
+		create_state = {
+			country = c:TRV
+			owned_provinces = { "x3DAADC" "xAA8C53" "xAF863A" "xC2702C" "xD2AF73" }
+		}
+
+		add_homeland = cu:frequent_kirin
+	}
+
+	s:STATE_PLAINS_OF_SANCTUARY = {
+		create_state = {
+			country = c:RSF
+			owned_provinces = { "x654580" "x8A45C3" "xB13671" "xD46FA0" "xD8A9FF" "xFF007F" "xFF98CA" }
+		}
+
+		add_homeland = cu:fighting_kirin
+	}
+	s:STATE_EAST_PLAINS_OF_SANCTUARY = {
+		create_state = {
+			country = c:RSF
+			owned_provinces = { "x0486B6" "x0903B6" "x1AB7E3" "x3F67A7" "x65A2FF" "x65CDEA" }
+		}
+
+		add_homeland = cu:fighting_kirin
+	}
+
+	s:STATE_MOUNTS_OF_MAYHEM = {
+		create_state = {
+			country = c:FMT
+			owned_provinces = { "x4C1D70" "x551D70" "x9549BB" "xA56CC8" }
+		}
+
+		add_homeland = cu:fighting_kirin
+	}
+	s:STATE_WINDBIRTH_COAST = {
+		create_state = {
+			country = c:FMT
+			owned_provinces = { "x009DFF" "x00D0FF" "x2CAEFF" "x328772" "x7ACCFF" }
+		}
+
+		add_homeland = cu:fighting_kirin
+	}
+
+	s:STATE_KOMTAL = {
+		create_state = {
+			country = c:KOL
+			owned_provinces = { "x64AF9C" "xA4728D" "xB26C91" "xB748A3" "xFF35DA" }
+		}
+
+		add_homeland = cu:fae_kirin
+	}
+
+	s:STATE_BAKIN = {
+		create_state = {
+			country = c:BKN
+			owned_provinces = { "x5D2A8A" "x8D40CD" "xA94DFF" "xA973C4" "xCD40B3" "xFF82C0" }
+		}
+
+		add_homeland = cu:fae_kirin
+	}
+
+	s:STATE_DIAHMANED = {
+		create_state = {
+			country = c:DNM
+			owned_provinces = { "x5F2751" "x8ECB15" "x973A80" "xE08E9F" "xE18CCC" }
+		}
+
+		add_homeland = cu:fae_kirin
+	}
+
+	s:STATE_ASCALEA = {
+		create_state = {
+			country = c:ACL
+			owned_provinces = { xA536CA x66335A xB38CA9 xBC59A3 }
+		}
+		create_state = {
+			country = c:AHK
+			owned_provinces = { x6F328D xBF437F x7E5273 xD92BAE x93094E xECA4DA }
+		}
+
+		add_homeland = cu:fae_kirin
+	}
+
+	s:STATE_YARKUTIA = {
+		create_state = {
+			country = c:FHR
+			owned_provinces = { xFFAA00 xFFC95F }
+		}
+		create_state = {
+			country = c:SHR
+			owned_provinces = { x996D42 xDE8A36 xE1AB76 }
+		}
+
+		add_homeland = cu:floof_kirin
+	}
+
+	s:STATE_THE_FLUF_FACILITIES = {
+		create_state = {
+			country = c:HHR
+			owned_provinces = { "x7709A5" "xDEC48B" "xE7CA8D" "xF1E4CA" "xFFEBBD" }
+		}
+
+		add_homeland = cu:floof_kirin
+	}
+
+	s:STATE_KRASNUGGLE = {
+		create_state = {
+			country = c:OHR
+			owned_provinces = { "xD36B46" "xF1B615" "xF6AC91" "xFFD562" }
+		}
+		create_state = {
+			country = c:VHR
+			owned_provinces = { "xDE6535" "xB07B67" }
+		}
+
+		add_homeland = cu:floof_kirin
+	}
+
+	s:STATE_START_LINE_ISLANDS = {
+		create_state = {
+			country = c:POV
+			owned_provinces = { "x35A673" "x44C38A" "x67BD95" "x7709A6" "x88E1B9" }
+		}
+
+		add_homeland = cu:floating_kirin
+	}
+	s:STATE_FINISH_LINE_ISLANDS = {
+		create_state = {
+			country = c:POV
+			owned_provinces = { "x1DC130" "x35753C" "x74DE81" "x76FF86" "x9AE2A1" }
+		}
+
+		add_homeland = cu:floating_kirin
 	}
 }

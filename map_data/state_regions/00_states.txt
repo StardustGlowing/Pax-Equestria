@@ -2492,7 +2492,7 @@ STATE_BY_THE_TRINKET_TAKERS = {
     }
 }
 
-STATE_CEASEFIRE_ISLES = {
+STATE_CEASEFIRE_ISLANDS = {
     id = 142
     provinces = { "x914411" "x972D28" "xE35C58" "xEE7575" "xFD2B43" }
     city = "xE35C58"
@@ -2802,6 +2802,25 @@ STATE_MERLAN = {
         building_fishing_wharf = 15
     }
 }
+
+STATE_LITTLE_LAUNCHPAD = {
+    id = 161
+    provinces = { "x0ADC83" "x4F44D2" "x7B479E" "x8E5FAE" "x9139BA" }
+    city = "x0ADC83"
+    port = "x4F44D2"
+    farm = "x9139BA"
+    mine = "x7B479E"
+    wood = "x8E5FAE"
+    arable_land = 100
+    arable_resources = { "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" }
+    capped_resources = {
+        building_logging_camp = 14
+        building_rubber_plantation = 14
+        building_iron_mine = 14
+        building_fishing_wharf = 15
+    }
+}
+
 ##################################### Kiria #############################################
 
 STATE_MONOVEN = {
@@ -2820,24 +2839,6 @@ STATE_MONOVEN = {
         building_iron_mine = 14
         building_lead_mine = 14
         building_logging_camp = 14
-        building_fishing_wharf = 15
-    }
-}
-
-STATE_LITTLE_LAUNCHPAD = {
-    id = 161
-    provinces = { "x0ADC83" "x4F44D2" "x7B479E" "x8E5FAE" "x9139BA" }
-    city = "x0ADC83"
-    port = "x4F44D2"
-    farm = "x9139BA"
-    mine = "x7B479E"
-    wood = "x8E5FAE"
-    arable_land = 100
-    arable_resources = { "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" }
-    capped_resources = {
-        building_logging_camp = 14
-        building_rubber_plantation = 14
-        building_iron_mine = 14
         building_fishing_wharf = 15
     }
 }
@@ -2861,7 +2862,7 @@ STATE_PLAINS_OF_SANCTUARY = {
     }
 }
 
-STATE_EAST_PLAIN_OF_SANCTUARY = {
+STATE_EAST_PLAINS_OF_SANCTUARY = {
     id = 209
     provinces = { "x0486B6" "x0903B6" "x1AB7E3" "x3F67A7" "x65A2FF" "x65CDEA" }
     city = "x65CDEA"
